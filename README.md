@@ -1,5 +1,5 @@
 # Intelligent-Multi-Modal-Visual-Thermal-Traffic-Monitoring-System
-An Intelligent Multi-Modal Visual-Thermal Traffic Monitoring System for the detection and classifcation of vechicles
+An Intelligent Multi-Modal Visual-Thermal Traffic Monitoring System for the detection and classifcation of vechicles and congestion patterns
 
 ## Equipment
 HikMicro Pocket series Thermal Imaging Camera  
