@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Bridge1Images</folder>
-	<filename>bridge_1_output_0001.jpg</filename>
-	<path>C:\Users\lucas\source\repos\Drone-Thermal-Imaging-Classification\data\Bridge1Images\bridge_1_output_0001.jpg</path>
+	<filename>bridge_1_output_0015.jpg</filename>
+	<path>C:\Users\lucas\source\repos\Drone-Thermal-Imaging-Classification\data\Bridge1Images\bridge_1_output_0015.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>367</xmin>
-			<ymin>137</ymin>
-			<xmax>407</xmax>
-			<ymax>153</ymax>
+			<xmin>333</xmin>
+			<ymin>90</ymin>
+			<xmax>375</xmax>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smallCar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>79</ymin>
+			<xmax>328</xmax>
+			<ymax>93</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +41,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>238</xmin>
-			<ymin>125</ymin>
-			<xmax>279</xmax>
-			<ymax>145</ymax>
+			<xmin>376</xmin>
+			<ymin>227</ymin>
+			<xmax>423</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lightTruck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>558</xmin>
+			<ymin>74</ymin>
+			<xmax>601</xmax>
+			<ymax>92</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>95</xmin>
-			<ymin>131</ymin>
-			<xmax>135</xmax>
-			<ymax>144</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>smallCar</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>578</xmin>
-			<ymin>136</ymin>
-			<xmax>607</xmax>
-			<ymax>149</ymax>
+			<xmin>398</xmin>
+			<ymin>67</ymin>
+			<xmax>426</xmax>
+			<ymax>79</ymax>
 		</bndbox>
 	</object>
 </annotation>

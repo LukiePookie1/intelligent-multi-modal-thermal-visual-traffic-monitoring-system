@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Bridge1Images</folder>
-	<filename>bridge_1_output_0001.jpg</filename>
-	<path>C:\Users\lucas\source\repos\Drone-Thermal-Imaging-Classification\data\Bridge1Images\bridge_1_output_0001.jpg</path>
+	<filename>bridge_1_output_0082.jpg</filename>
+	<path>C:\Users\lucas\source\repos\Drone-Thermal-Imaging-Classification\Dataset\Bridge1Images\bridge_1_output_0082.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,34 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>367</xmin>
-			<ymin>137</ymin>
-			<xmax>407</xmax>
-			<ymax>153</ymax>
+			<xmin>257</xmin>
+			<ymin>112</ymin>
+			<xmax>294</xmax>
+			<ymax>129</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>largeCar</name>
+		<name>lightTruck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>238</xmin>
-			<ymin>125</ymin>
-			<xmax>279</xmax>
-			<ymax>145</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>smallCar</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>95</xmin>
-			<ymin>131</ymin>
-			<xmax>135</xmax>
-			<ymax>144</ymax>
+			<xmin>359</xmin>
+			<ymin>117</ymin>
+			<xmax>402</xmax>
+			<ymax>135</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>578</xmin>
-			<ymin>136</ymin>
-			<xmax>607</xmax>
-			<ymax>149</ymax>
+			<xmin>444</xmin>
+			<ymin>117</ymin>
+			<xmax>479</xmax>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smallCar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>118</ymin>
+			<xmax>541</xmax>
+			<ymax>138</ymax>
 		</bndbox>
 	</object>
 </annotation>

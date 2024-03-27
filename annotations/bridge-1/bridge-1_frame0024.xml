@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Bridge1Images</folder>
-	<filename>bridge_1_output_0004.jpg</filename>
-	<path>C:\Users\lucas\source\repos\Drone-Thermal-Imaging-Classification\data\Bridge1Images\bridge_1_output_0004.jpg</path>
+	<filename>bridge_1_output_0024.jpg</filename>
+	<path>C:\Users\lucas\source\repos\Drone-Thermal-Imaging-Classification\Dataset\Bridge1Images\bridge_1_output_0024.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,51 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>largeCar</name>
+		<name>lightTruck</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>252</xmin>
-			<ymin>130</ymin>
-			<xmax>295</xmax>
-			<ymax>148</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>largeCar</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>299</xmin>
-			<ymin>125</ymin>
-			<xmax>334</xmax>
-			<ymax>142</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>largeCar</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>340</xmin>
-			<ymin>130</ymin>
-			<xmax>372</xmax>
-			<ymax>145</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>largeCar</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>490</xmin>
-			<ymin>129</ymin>
-			<xmax>522</xmax>
-			<ymax>145</ymax>
+			<xmin>433</xmin>
+			<ymin>67</ymin>
+			<xmax>476</xmax>
+			<ymax>81</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +29,46 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>451</xmin>
-			<ymin>121</ymin>
-			<xmax>480</xmax>
-			<ymax>135</ymax>
+			<xmin>450</xmin>
+			<ymin>82</ymin>
+			<xmax>489</xmax>
+			<ymax>92</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lightTruck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>74</ymin>
+			<xmax>287</xmax>
+			<ymax>88</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lightTruck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>64</ymin>
+			<xmax>276</xmax>
+			<ymax>77</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>smallCar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>195</ymin>
+			<xmax>389</xmax>
+			<ymax>227</ymax>
 		</bndbox>
 	</object>
 </annotation>
