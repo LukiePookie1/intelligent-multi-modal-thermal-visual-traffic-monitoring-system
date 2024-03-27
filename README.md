@@ -1,1 +1,2 @@
-# intelligent-multi-model-thermal-visual-traffic-monitoring-system
+# Intelligent-Multi-Modal-Visual-Thermal-Traffic-Monitoring-System
+Intelligent Multi-Modal Visual-Thermal Traffic Monitoring System
