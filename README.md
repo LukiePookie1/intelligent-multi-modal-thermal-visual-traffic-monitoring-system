@@ -2,7 +2,7 @@
 An Intelligent Multi-Modal Visual-Thermal Traffic Monitoring System for the detection and classifcation of vechicles and congestion patterns
 
 ## Equipment
-HikMicro Pocket series Thermal Imaging Camera  
+HikMicro Pocket Series Thermal Imaging Camera  
 DJI Phantom 4 PRO Professional Drone
 
 ## Dependencies
