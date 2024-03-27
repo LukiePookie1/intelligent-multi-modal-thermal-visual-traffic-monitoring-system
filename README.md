@@ -5,7 +5,7 @@ An Intelligent Multi-Modal Visual-Thermal Traffic Monitoring System for the dete
 HikMicro Pocket Series Thermal Imaging Camera  
 DJI Phantom 4 PRO Professional Drone
 
-## Dependencies
+## Object Detection and Image Classification Dependencies
 - Python 3.10+
 - NumPy
 - Pandas
@@ -15,4 +15,7 @@ DJI Phantom 4 PRO Professional Drone
 - Torchvision
 - Pillow (PIL)
 - CUDA 11.2 (If you have a dedicated GPU)
+
+## App Dependencies
+- Electron
 
