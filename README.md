@@ -1,5 +1,5 @@
 # Intelligent-Multi-Modal-Visual-Thermal-Traffic-Monitoring-System
-An Intelligent Multi-Modal Visual-Thermal Traffic Monitoring System for the detection and classification of vehicles and congestion patterns
+Computer Science Capstone Project For LARRI: An Intelligent Multi-Modal Visual-Thermal Traffic Monitoring System for the detection and classification of vehicles and congestion patterns
 
 ## Equipment
 HikMicro Pocket Series Thermal Imaging Camera  
