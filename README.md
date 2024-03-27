@@ -19,3 +19,12 @@ DJI Phantom 4 PRO Professional Drone
 ## App Dependencies
 - Electron
 
+## Contributors
+Software:
+Luke Rappa
+Morgan Taylor
+
+Hardware:
+Lucas Arvin
+Kevin Nguyen
+
