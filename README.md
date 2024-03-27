@@ -21,10 +21,10 @@ DJI Phantom 4 PRO Professional Drone
 
 ## Contributors
 Software:
--Luke Rappa
--Morgan Taylor
+- Luke Rappa
+- Morgan Taylor
 
 Hardware:
--Lucas Arvin
--Kevin Nguyen
+- Lucas Arvin
+- Kevin Nguyen
 
