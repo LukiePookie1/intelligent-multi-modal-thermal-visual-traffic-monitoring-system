@@ -39,6 +39,7 @@ app.on('activate', () => {
   }
 });
 
+
 ipcMain.on('process-video', (event, inputVideoPath) => {
   const pythonProcess = spawn('python', ['process_video.py', inputVideoPath]);
 
@@ -53,6 +54,8 @@ ipcMain.on('process-video', (event, inputVideoPath) => {
 
   pythonProcess.on('close', (code) => {
     console.log(`Python script exited with code ${code}`);
-    mainWindow.webContents.send('processing-complete');
+    // Assuming the output video path is known and static
+    const outputVideoPath = path.join(__dirname, 'output_video.mp4');
+    mainWindow.webContents.send('processing-complete', outputVideoPath);
   });
 });
