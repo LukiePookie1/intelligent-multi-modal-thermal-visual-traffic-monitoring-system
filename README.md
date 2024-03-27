@@ -1,10 +1,10 @@
 # Intelligent-Multi-Modal-Visual-Thermal-Traffic-Monitoring-System
 
-Team 7: 
-Thermal and Visual Imaging with Drone
-
 Computer Science Capstone Project For LARRI: 
 An Intelligent Multi-Modal Visual-Thermal Traffic Monitoring System for the detection and classification of vehicles and congestion patterns
+
+Team 7: 
+Thermal and Visual Imaging with Drone
 
 Sponsor:
 Dr. Sabur Baidya
