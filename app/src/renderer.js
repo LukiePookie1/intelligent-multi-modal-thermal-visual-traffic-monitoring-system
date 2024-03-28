@@ -7,7 +7,7 @@ const processBtn = document.getElementById('processBtn');
 const outputContainer = document.getElementById('outputContainer');
 
 videoUpload.addEventListener('change', function(event) {
-  const file = event.target.files[0];
+  const file = "output_video.mp4";
   const url = URL.createObjectURL(file);
   videoPlayer.src = url;
 });
