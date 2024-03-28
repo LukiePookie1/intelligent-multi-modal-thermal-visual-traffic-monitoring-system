@@ -1,7 +1,7 @@
 <annotation>
 	<folder>bridge-2-rgb</folder>
-	<filename>bridge-2-rgb_frame0212.jpg</filename>
-	<path>C:\Users\Morgan Taylor\Documents\New folder\intelligent-multi-modal-thermal-visual-traffic-monitoring-system\raw-images\bridge-2-rgb\bridge-2-rgb_frame0212.jpg</path>
+	<filename>bridge-2-rgb_frame0254.jpg</filename>
+	<path>C:\Users\Morgan Taylor\Documents\New folder\intelligent-multi-modal-thermal-visual-traffic-monitoring-system\raw-images\bridge-2-rgb\bridge-2-rgb_frame0254.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,39 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>smallCar</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1063</xmin>
-			<ymin>372</ymin>
-			<xmax>1187</xmax>
-			<ymax>424</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>largeCar</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>769</xmin>
-			<ymin>316</ymin>
-			<xmax>861</xmax>
-			<ymax>364</ymax>
+			<xmin>882</xmin>
+			<ymin>292</ymin>
+			<xmax>1016</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>heavyTruck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>383</ymin>
+			<xmax>977</xmax>
+			<ymax>720</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>202</ymin>
+			<xmax>310</xmax>
+			<ymax>217</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,34 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>611</xmin>
-			<ymin>249</ymin>
-			<xmax>700</xmax>
-			<ymax>299</ymax>
+			<xmin>20</xmin>
+			<ymin>184</ymin>
+			<xmax>65</xmax>
+			<ymax>223</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>lightTruck</name>
+		<name>vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>447</xmin>
-			<ymin>242</ymin>
-			<xmax>491</xmax>
-			<ymax>266</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>largeCar</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>327</xmin>
-			<ymin>207</ymin>
-			<xmax>354</xmax>
-			<ymax>228</ymax>
+			<xmin>93</xmin>
+			<ymin>217</ymin>
+			<xmax>130</xmax>
+			<ymax>237</ymax>
 		</bndbox>
 	</object>
 </annotation>
