@@ -1,7 +1,7 @@
 <annotation>
 	<folder>bridge-3</folder>
-	<filename>bridge-3_frame0046.jpg</filename>
-	<path>C:\Users\Morgan Taylor\Documents\New folder\intelligent-multi-modal-thermal-visual-traffic-monitoring-system\raw-images\bridge-3\bridge-3_frame0046.jpg</path>
+	<filename>bridge-3_frame0095.jpg</filename>
+	<path>C:\Users\Morgan Taylor\Documents\New folder\intelligent-multi-modal-thermal-visual-traffic-monitoring-system\raw-images\bridge-3\bridge-3_frame0095.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>vehicle</name>
+		<name>smallCar</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>353</xmin>
-			<ymin>125</ymin>
-			<xmax>390</xmax>
-			<ymax>141</ymax>
+			<xmin>522</xmin>
+			<ymin>242</ymin>
+			<xmax>579</xmax>
+			<ymax>262</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>vehicle</name>
+		<name>smallCar</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>577</xmin>
-			<ymin>127</ymin>
-			<xmax>614</xmax>
-			<ymax>141</ymax>
+			<xmin>302</xmin>
+			<ymin>297</ymin>
+			<xmax>368</xmax>
+			<ymax>324</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>317</xmin>
-			<ymin>88</ymin>
-			<xmax>389</xmax>
-			<ymax>111</ymax>
+			<xmin>337</xmin>
+			<ymin>111</ymin>
+			<xmax>472</xmax>
+			<ymax>145</ymax>
 		</bndbox>
 	</object>
 </annotation>
