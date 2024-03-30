@@ -1,7 +1,7 @@
 <annotation>
 	<folder>bridge-3</folder>
-	<filename>bridge-3_frame0011.jpg</filename>
-	<path>C:\Users\Morgan Taylor\Documents\New folder\intelligent-multi-modal-thermal-visual-traffic-monitoring-system\raw-images\bridge-3\bridge-3_frame0011.jpg</path>
+	<filename>bridge-3_frame0067.jpg</filename>
+	<path>C:\Users\Morgan Taylor\Documents\New folder\intelligent-multi-modal-thermal-visual-traffic-monitoring-system\raw-images\bridge-3\bridge-3_frame0067.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>253</xmin>
-			<ymin>111</ymin>
-			<xmax>296</xmax>
-			<ymax>129</ymax>
+			<xmin>339</xmin>
+			<ymin>104</ymin>
+			<xmax>371</xmax>
+			<ymax>119</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>498</xmin>
+			<xmin>414</xmin>
 			<ymin>110</ymin>
-			<xmax>550</xmax>
-			<ymax>132</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>smallCar</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>601</xmin>
-			<ymin>225</ymin>
-			<xmax>640</xmax>
-			<ymax>248</ymax>
+			<xmax>452</xmax>
+			<ymax>125</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>345</xmin>
-			<ymin>82</ymin>
-			<xmax>377</xmax>
-			<ymax>101</ymax>
+			<xmin>354</xmin>
+			<ymin>125</ymin>
+			<xmax>392</xmax>
+			<ymax>143</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>542</xmin>
-			<ymin>89</ymin>
-			<xmax>575</xmax>
-			<ymax>103</ymax>
+			<xmin>151</xmin>
+			<ymin>130</ymin>
+			<xmax>196</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>129</ymin>
+			<xmax>145</xmax>
+			<ymax>140</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -35,4 +35,16 @@
 			<ymax>121</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>614</xmin>
+			<ymin>225</ymin>
+			<xmax>640</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
 </annotation>
