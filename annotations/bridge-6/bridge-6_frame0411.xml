@@ -1,7 +1,7 @@
 <annotation>
 	<folder>bridge-6</folder>
-	<filename>bridge-6_frame0009.jpg</filename>
-	<path>C:\Users\Morgan Taylor\Documents\New folder\intelligent-multi-modal-thermal-visual-traffic-monitoring-system\raw-images\bridge-6\bridge-6_frame0009.jpg</path>
+	<filename>bridge-6_frame0411.jpg</filename>
+	<path>C:\Users\Morgan Taylor\Documents\New folder\intelligent-multi-modal-thermal-visual-traffic-monitoring-system\raw-images\bridge-6\bridge-6_frame0411.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>568</xmin>
-			<ymin>179</ymin>
-			<xmax>615</xmax>
-			<ymax>208</ymax>
+			<xmin>165</xmin>
+			<ymin>227</ymin>
+			<xmax>211</xmax>
+			<ymax>285</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>heavyTruck</name>
+		<name>vehicle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>305</xmin>
-			<ymin>117</ymin>
-			<xmax>378</xmax>
-			<ymax>160</ymax>
+			<xmin>187</xmin>
+			<ymin>171</ymin>
+			<xmax>214</xmax>
+			<ymax>205</ymax>
 		</bndbox>
 	</object>
 </annotation>

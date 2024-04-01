@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bridge-6</folder>
+	<filename>bridge-6_frame0201.jpg</filename>
+	<path>C:\Users\Morgan Taylor\Documents\New folder\intelligent-multi-modal-thermal-visual-traffic-monitoring-system\raw-images\bridge-6\bridge-6_frame0201.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heavyTruck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>109</xmin>
+			<ymin>163</ymin>
+			<xmax>253</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+</annotation>
