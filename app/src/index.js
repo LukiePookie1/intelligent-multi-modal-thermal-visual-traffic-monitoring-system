@@ -15,13 +15,11 @@ const createWindow = () => {
     height: 600,
     webPreferences: {
       preload: path.join(__dirname, 'preload.js'),
-      nodeIntegration: true, 
-      contextIsolation: false, 
+      nodeIntegration: false,
+      contextIsolation: true,
     },
   });
-
   mainWindow.loadFile(path.join(__dirname, 'index.html'));
-
   mainWindow.webContents.openDevTools();
 };
 
@@ -39,9 +37,9 @@ app.on('activate', () => {
   }
 });
 
-
-ipcMain.on('process-video', (event, inputVideoPath) => {
-  const pythonProcess = spawn('python', ['process_video.py', inputVideoPath]);
+ipcMain.on('process-video', (event, inputVideoPath, outputVideoPath) => {
+  console.log('Received process-video event with paths:', inputVideoPath, outputVideoPath);
+  const pythonProcess = spawn('python', ['object-detect-script.py', inputVideoPath, outputVideoPath]);
 
   pythonProcess.stdout.on('data', (data) => {
     console.log(`Python script output: ${data}`);
@@ -54,8 +52,6 @@ ipcMain.on('process-video', (event, inputVideoPath) => {
 
   pythonProcess.on('close', (code) => {
     console.log(`Python script exited with code ${code}`);
-    // Assuming the output video path is known and static
-    const outputVideoPath = path.join(__dirname, 'output_video.mp4');
     mainWindow.webContents.send('processing-complete', outputVideoPath);
   });
 });
