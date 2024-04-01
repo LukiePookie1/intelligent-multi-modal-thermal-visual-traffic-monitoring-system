@@ -37,9 +37,10 @@ app.on('activate', () => {
   }
 });
 
-ipcMain.on('process-video', (event, inputVideoPath, outputVideoPath) => {
-  console.log('Received process-video event with paths:', inputVideoPath, outputVideoPath);
-  const pythonProcess = spawn('python', ['object-detect-script.py', inputVideoPath, outputVideoPath]);
+ipcMain.on('process-video', (event, inputVideoPath) => {
+  const outputPath = path.join(path.dirname(inputVideoPath), 'output_video.mp4');
+  console.log('Received process-video event with path:', inputVideoPath, outputPath);
+  const pythonProcess = spawn('python', ['object-detect-script.py', inputVideoPath, outputPath]);
 
   pythonProcess.stdout.on('data', (data) => {
     console.log(`Python script output: ${data}`);

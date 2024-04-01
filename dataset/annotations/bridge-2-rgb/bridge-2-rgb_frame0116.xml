@@ -1,0 +1,38 @@
+<annotation>
+	<folder>bridge-2-rgb</folder>
+	<filename>bridge-2-rgb_frame0116.jpg</filename>
+	<path>C:\Users\Morgan Taylor\Documents\New folder\intelligent-multi-modal-thermal-visual-traffic-monitoring-system\raw-images\bridge-2-rgb\bridge-2-rgb_frame0116.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>smallCar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>322</ymin>
+			<xmax>362</xmax>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>lightTruck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>277</ymin>
+			<xmax>411</xmax>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+</annotation>

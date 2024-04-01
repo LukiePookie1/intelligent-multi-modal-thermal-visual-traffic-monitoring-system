@@ -13,9 +13,8 @@ videoUpload.addEventListener('change', function (event) {
 
 processBtn.addEventListener('click', () => {
   const inputVideoPath = videoUpload.files[0].path;
-  const outputVideoPath = window.electronAPI.join('output_video.mp4');
-  console.log('Sending process-video event with paths:', inputVideoPath, outputVideoPath);
-  window.electronAPI.send('process-video', inputVideoPath, outputVideoPath);
+  console.log('Sending process-video event with path:', inputVideoPath);
+  window.electronAPI.send('process-video', inputVideoPath);
 });
 
 window.electronAPI.receive('processing-update', (message) => {
