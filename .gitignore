@@ -19,3 +19,4 @@ docs/_build/
 *.temp
 .DS_Store
 Thumbs.db
+output_video.mp4
