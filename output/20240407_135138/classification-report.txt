@@ -1,0 +1,422 @@
+Image Classification Report
+===========================
+
+Date: 2024-04-07 13:51:38
+
+Total Images Viewed: 93
+
+Classification Counts:
+European polecat: 1
+Schipperke: 2
+Windsor tie: 1
+abacus: 1
+barrel: 2
+bolo tie: 1
+breastplate: 1
+bulletproof vest: 1
+chiton: 1
+cocktail shaker: 1
+combination lock: 1
+croquet ball: 1
+eggnog: 1
+entertainment center: 1
+espresso machine: 1
+fire screen sheet: 3
+front curtain: 1
+gong: 2
+hair spray: 1
+hourglass: 4
+isopod: 1
+joystick: 1
+lipstick: 1
+magnetic compass: 1
+milk can: 28
+odometer: 1
+oil filter: 1
+pedestal: 1
+plunger: 1
+power drill: 1
+punching bag: 1
+reel: 1
+rotisserie: 3
+skunk: 1
+solar thermal collector: 4
+southern black widow: 1
+space heater: 2
+space shuttle: 1
+torch: 1
+whiskey jug: 3
+whistle: 10
+
+Image Predictions:
+bridge-1-rgb_frame0016_0.jpg
+  Predicted Class: fire screen sheet
+  Confidence Score: 0.1142
+
+bridge-1-rgb_frame0047_0.jpg
+  Predicted Class: entertainment center
+  Confidence Score: 0.0807
+
+bridge-1-rgb_frame0047_1.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.4493
+
+bridge-1-rgb_frame0047_2.jpg
+  Predicted Class: Schipperke
+  Confidence Score: 0.2372
+
+bridge-1-rgb_frame0047_3.jpg
+  Predicted Class: space heater
+  Confidence Score: 0.0888
+
+bridge-1-rgb_frame0049_0.jpg
+  Predicted Class: Windsor tie
+  Confidence Score: 0.0571
+
+bridge-1-rgb_frame0049_1.jpg
+  Predicted Class: European polecat
+  Confidence Score: 0.1064
+
+bridge-1-rgb_frame0049_2.jpg
+  Predicted Class: croquet ball
+  Confidence Score: 0.1204
+
+bridge-1-rgb_frame0049_3.jpg
+  Predicted Class: espresso machine
+  Confidence Score: 0.1118
+
+bridge-1-rgb_frame0049_4.jpg
+  Predicted Class: plunger
+  Confidence Score: 0.1174
+
+bridge-1-rgb_frame0050_0.jpg
+  Predicted Class: solar thermal collector
+  Confidence Score: 0.1633
+
+bridge-1-rgb_frame0050_1.jpg
+  Predicted Class: eggnog
+  Confidence Score: 0.0294
+
+bridge-1-rgb_frame0050_2.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.1077
+
+bridge-1-rgb_frame0082_0.jpg
+  Predicted Class: odometer
+  Confidence Score: 0.1882
+
+bridge-1-rgb_frame0082_1.jpg
+  Predicted Class: whiskey jug
+  Confidence Score: 0.0915
+
+bridge-1-rgb_frame0082_2.jpg
+  Predicted Class: front curtain
+  Confidence Score: 0.2272
+
+bridge-1-rgb_frame0100_0.jpg
+  Predicted Class: gong
+  Confidence Score: 0.1088
+
+bridge-1-rgb_frame0100_1.jpg
+  Predicted Class: whiskey jug
+  Confidence Score: 0.1306
+
+bridge-1-rgb_frame0100_2.jpg
+  Predicted Class: chiton
+  Confidence Score: 0.0510
+
+bridge-1-rgb_frame0100_3.jpg
+  Predicted Class: isopod
+  Confidence Score: 0.0395
+
+bridge-1-rgb_frame0110_0.jpg
+  Predicted Class: punching bag
+  Confidence Score: 0.5529
+
+bridge-1-rgb_frame0141_0.jpg
+  Predicted Class: whistle
+  Confidence Score: 0.2548
+
+bridge-1-rgb_frame0141_1.jpg
+  Predicted Class: southern black widow
+  Confidence Score: 0.0547
+
+bridge-1-rgb_frame0141_2.jpg
+  Predicted Class: hourglass
+  Confidence Score: 0.0620
+
+bridge-1-rgb_frame0192_0.jpg
+  Predicted Class: rotisserie
+  Confidence Score: 0.1258
+
+bridge-1-rgb_frame0192_1.jpg
+  Predicted Class: fire screen sheet
+  Confidence Score: 0.7422
+
+bridge-2-rgb_frame0061_0.jpg
+  Predicted Class: fire screen sheet
+  Confidence Score: 0.1548
+
+bridge-2-rgb_frame0061_1.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.2545
+
+bridge-2-rgb_frame0061_2.jpg
+  Predicted Class: gong
+  Confidence Score: 0.1891
+
+bridge-2-rgb_frame0061_3.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.3494
+
+bridge-2-rgb_frame0061_4.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.0862
+
+bridge-2-rgb_frame0061_5.jpg
+  Predicted Class: magnetic compass
+  Confidence Score: 0.0347
+
+bridge-2-rgb_frame0061_6.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.0660
+
+bridge-2-rgb_frame0061_7.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.7878
+
+bridge-2-rgb_frame0061_8.jpg
+  Predicted Class: hair spray
+  Confidence Score: 0.1225
+
+bridge-2-rgb_frame0063_0.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.6867
+
+bridge-2-rgb_frame0063_1.jpg
+  Predicted Class: whistle
+  Confidence Score: 0.3034
+
+bridge-2-rgb_frame0063_2.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.0860
+
+bridge-2-rgb_frame0063_3.jpg
+  Predicted Class: abacus
+  Confidence Score: 0.1963
+
+bridge-2-rgb_frame0063_4.jpg
+  Predicted Class: power drill
+  Confidence Score: 0.5441
+
+bridge-2-rgb_frame0063_5.jpg
+  Predicted Class: whistle
+  Confidence Score: 0.1545
+
+bridge-2-rgb_frame0075_0.jpg
+  Predicted Class: solar thermal collector
+  Confidence Score: 0.0592
+
+bridge-2-rgb_frame0075_1.jpg
+  Predicted Class: barrel
+  Confidence Score: 0.1775
+
+bridge-2-rgb_frame0075_2.jpg
+  Predicted Class: whiskey jug
+  Confidence Score: 0.3414
+
+bridge-2-rgb_frame0075_3.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.7060
+
+bridge-2-rgb_frame0075_4.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.0857
+
+bridge-2-rgb_frame0075_5.jpg
+  Predicted Class: rotisserie
+  Confidence Score: 0.0826
+
+bridge-2-rgb_frame0081_0.jpg
+  Predicted Class: space shuttle
+  Confidence Score: 0.1140
+
+bridge-2-rgb_frame0081_1.jpg
+  Predicted Class: hourglass
+  Confidence Score: 0.1113
+
+bridge-2-rgb_frame0081_2.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.4328
+
+bridge-2-rgb_frame0104_0.jpg
+  Predicted Class: solar thermal collector
+  Confidence Score: 0.0943
+
+bridge-2-rgb_frame0104_1.jpg
+  Predicted Class: space heater
+  Confidence Score: 0.1501
+
+bridge-2-rgb_frame0104_2.jpg
+  Predicted Class: rotisserie
+  Confidence Score: 0.9328
+
+bridge-2-rgb_frame0104_3.jpg
+  Predicted Class: hourglass
+  Confidence Score: 0.3009
+
+bridge-2-rgb_frame0104_4.jpg
+  Predicted Class: whistle
+  Confidence Score: 0.1861
+
+bridge-2-rgb_frame0137_0.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.1875
+
+bridge-2-rgb_frame0137_1.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.1953
+
+bridge-2-rgb_frame0137_2.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.4738
+
+bridge-2-rgb_frame0137_3.jpg
+  Predicted Class: lipstick
+  Confidence Score: 0.0991
+
+bridge-2-rgb_frame0137_4.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.2921
+
+bridge-2-rgb_frame0137_5.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.3455
+
+bridge-2-rgb_frame0166_0.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.2433
+
+bridge-2-rgb_frame0166_1.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.3611
+
+bridge-2-rgb_frame0166_10.jpg
+  Predicted Class: whistle
+  Confidence Score: 0.4643
+
+bridge-2-rgb_frame0166_2.jpg
+  Predicted Class: pedestal
+  Confidence Score: 0.1003
+
+bridge-2-rgb_frame0166_3.jpg
+  Predicted Class: bolo tie
+  Confidence Score: 0.4363
+
+bridge-2-rgb_frame0166_4.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.7744
+
+bridge-2-rgb_frame0166_5.jpg
+  Predicted Class: skunk
+  Confidence Score: 0.0584
+
+bridge-2-rgb_frame0166_6.jpg
+  Predicted Class: whistle
+  Confidence Score: 0.1848
+
+bridge-2-rgb_frame0166_7.jpg
+  Predicted Class: bulletproof vest
+  Confidence Score: 0.1344
+
+bridge-2-rgb_frame0166_8.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.9700
+
+bridge-2-rgb_frame0166_9.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.0671
+
+bridge-2-rgb_frame0167_0.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.3774
+
+bridge-2-rgb_frame0167_1.jpg
+  Predicted Class: barrel
+  Confidence Score: 0.1992
+
+bridge-2-rgb_frame0167_2.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.3134
+
+bridge-2-rgb_frame0167_3.jpg
+  Predicted Class: hourglass
+  Confidence Score: 0.2130
+
+bridge-2-rgb_frame0167_4.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.2171
+
+bridge-2-rgb_frame0167_5.jpg
+  Predicted Class: joystick
+  Confidence Score: 0.1062
+
+bridge-2-rgb_frame0167_6.jpg
+  Predicted Class: oil filter
+  Confidence Score: 0.1152
+
+bridge-2-rgb_frame0167_7.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.4292
+
+bridge-2-rgb_frame0195_0.jpg
+  Predicted Class: whistle
+  Confidence Score: 0.1283
+
+bridge-2-rgb_frame0195_1.jpg
+  Predicted Class: solar thermal collector
+  Confidence Score: 0.2761
+
+bridge-2-rgb_frame0195_2.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.2858
+
+bridge-2-rgb_frame0195_3.jpg
+  Predicted Class: reel
+  Confidence Score: 0.0402
+
+bridge-2-rgb_frame0245_0.jpg
+  Predicted Class: combination lock
+  Confidence Score: 0.0484
+
+bridge-2-rgb_frame0245_1.jpg
+  Predicted Class: milk can
+  Confidence Score: 0.0657
+
+bridge-2-rgb_frame0245_2.jpg
+  Predicted Class: whistle
+  Confidence Score: 0.0515
+
+bridge-2-rgb_frame0245_3.jpg
+  Predicted Class: torch
+  Confidence Score: 0.0771
+
+bridge-2-rgb_frame0245_4.jpg
+  Predicted Class: cocktail shaker
+  Confidence Score: 0.2980
+
+bridge-2-rgb_frame0245_5.jpg
+  Predicted Class: breastplate
+  Confidence Score: 0.3633
+
+bridge-2-rgb_frame0245_6.jpg
+  Predicted Class: whistle
+  Confidence Score: 0.5103
+
+bridge-2-rgb_frame0245_7.jpg
+  Predicted Class: whistle
+  Confidence Score: 0.4305
+
+bridge-2-rgb_frame0245_8.jpg
+  Predicted Class: Schipperke
+  Confidence Score: 0.0834

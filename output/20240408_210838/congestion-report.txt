@@ -1,0 +1,13 @@
+Congestion Report
+=================
+
+Total Frames Analyzed: 211
+
+Congestion Levels:
+Empty: 5.69%
+Light: 94.31%
+Moderate: 0.00%
+Heavy: 0.00%
+
+Global Congestion:
+Light

@@ -1,0 +1,7064 @@
+Object Detection and Congestion Report
+======================================
+
+Date: 2024-04-08 22:51:07
+
+Total Frames Analyzed: 1984
+Processing Time: 2.44 minutes
+
+Detection Counts:
+car: 24
+truck: 1
+
+Congestion Analysis:
+Empty: 27.27%
+Light: 72.73%
+Moderate: 0.00%
+Heavy: 0.00%
+
+Global Congestion:
+Light
+
+Frame-wise Detections:
+Frame 1:
+Frame 2:
+Frame 3:
+Frame 4:
+Frame 5:
+Frame 6:
+Frame 7:
+Frame 8:
+Frame 9:
+Frame 10:
+Frame 11:
+Frame 12:
+  - car: 0.88
+Frame 13:
+  - car: 0.97
+Frame 14:
+  - car: 0.86
+Frame 15:
+  - car: 0.89
+  - car: 0.85
+  - car: 0.89
+  - car: 0.85
+Frame 16:
+  - car: 0.85
+  - car: 0.73
+  - car: 0.85
+  - car: 0.73
+Frame 17:
+  - car: 0.72
+  - car: 0.72
+  - car: 0.72
+  - car: 0.72
+Frame 18:
+  - car: 0.78
+  - car: 0.71
+  - car: 0.78
+  - car: 0.71
+Frame 19:
+Frame 20:
+  - car: 0.71
+  - car: 0.71
+Frame 21:
+Frame 22:
+Frame 23:
+  - car: 0.77
+  - car: 0.77
+Frame 24:
+Frame 25:
+Frame 26:
+  - car: 0.74
+  - car: 0.74
+Frame 27:
+Frame 28:
+  - car: 0.76
+  - car: 0.76
+Frame 29:
+Frame 30:
+Frame 31:
+Frame 32:
+Frame 33:
+  - car: 0.75
+  - car: 0.75
+Frame 34:
+Frame 35:
+  - car: 0.94
+  - car: 0.85
+  - car: 0.94
+  - car: 0.85
+Frame 36:
+  - car: 0.85
+  - car: 0.79
+  - car: 0.85
+  - car: 0.79
+Frame 37:
+  - car: 0.96
+  - car: 0.96
+Frame 38:
+  - car: 0.90
+  - car: 0.90
+Frame 39:
+Frame 40:
+  - car: 0.89
+  - car: 0.89
+Frame 41:
+  - car: 0.79
+  - car: 0.79
+Frame 42:
+  - car: 0.79
+  - car: 0.79
+Frame 43:
+  - car: 0.74
+  - car: 0.74
+Frame 44:
+Frame 45:
+  - car: 0.76
+  - car: 0.76
+Frame 46:
+Frame 47:
+  - car: 0.78
+  - car: 0.78
+Frame 48:
+  - car: 0.87
+  - car: 0.87
+Frame 49:
+  - car: 0.93
+  - car: 0.93
+Frame 50:
+Frame 51:
+Frame 52:
+Frame 53:
+Frame 54:
+Frame 55:
+Frame 56:
+Frame 57:
+Frame 58:
+Frame 59:
+  - car: 0.80
+  - car: 0.80
+Frame 60:
+  - car: 0.84
+  - car: 0.84
+Frame 61:
+  - car: 0.91
+  - car: 0.91
+Frame 62:
+  - car: 0.86
+  - car: 0.86
+Frame 63:
+Frame 64:
+Frame 65:
+Frame 66:
+Frame 67:
+Frame 68:
+Frame 69:
+Frame 70:
+Frame 71:
+Frame 72:
+Frame 73:
+Frame 74:
+Frame 75:
+Frame 76:
+Frame 77:
+Frame 78:
+Frame 79:
+Frame 80:
+Frame 81:
+Frame 82:
+Frame 83:
+Frame 84:
+Frame 85:
+Frame 86:
+Frame 87:
+Frame 88:
+Frame 89:
+Frame 90:
+Frame 91:
+Frame 92:
+Frame 93:
+Frame 94:
+Frame 95:
+Frame 96:
+Frame 97:
+Frame 98:
+Frame 99:
+Frame 100:
+Frame 101:
+Frame 102:
+Frame 103:
+Frame 104:
+Frame 105:
+Frame 106:
+Frame 107:
+Frame 108:
+Frame 109:
+Frame 110:
+Frame 111:
+Frame 112:
+Frame 113:
+Frame 114:
+Frame 115:
+Frame 116:
+Frame 117:
+Frame 118:
+Frame 119:
+  - car: 0.86
+Frame 120:
+  - car: 0.89
+  - car: 0.74
+  - car: 0.89
+  - car: 0.74
+Frame 121:
+  - car: 0.86
+  - car: 0.74
+  - car: 0.86
+  - car: 0.74
+Frame 122:
+  - car: 0.73
+  - car: 0.73
+Frame 123:
+Frame 124:
+  - car: 0.98
+  - car: 0.98
+Frame 125:
+Frame 126:
+Frame 127:
+Frame 128:
+Frame 129:
+  - car: 0.85
+  - car: 0.85
+Frame 130:
+Frame 131:
+  - car: 0.81
+  - car: 0.81
+Frame 132:
+  - car: 0.86
+  - car: 0.86
+Frame 133:
+  - car: 0.91
+  - car: 0.91
+Frame 134:
+  - car: 0.81
+  - car: 0.81
+Frame 135:
+Frame 136:
+Frame 137:
+Frame 138:
+  - car: 0.93
+  - car: 0.93
+Frame 139:
+Frame 140:
+  - car: 0.93
+  - car: 0.93
+Frame 141:
+Frame 142:
+Frame 143:
+Frame 144:
+Frame 145:
+Frame 146:
+Frame 147:
+Frame 148:
+Frame 149:
+Frame 150:
+Frame 151:
+Frame 152:
+Frame 153:
+Frame 154:
+Frame 155:
+Frame 156:
+Frame 157:
+Frame 158:
+Frame 159:
+Frame 160:
+Frame 161:
+Frame 162:
+Frame 163:
+Frame 164:
+Frame 165:
+Frame 166:
+Frame 167:
+Frame 168:
+Frame 169:
+  - car: 0.79
+  - car: 0.79
+Frame 170:
+Frame 171:
+Frame 172:
+Frame 173:
+Frame 174:
+Frame 175:
+Frame 176:
+Frame 177:
+Frame 178:
+Frame 179:
+Frame 180:
+Frame 181:
+Frame 182:
+Frame 183:
+Frame 184:
+Frame 185:
+Frame 186:
+Frame 187:
+  - car: 0.93
+Frame 188:
+Frame 189:
+Frame 190:
+  - car: 0.82
+  - car: 0.75
+  - car: 0.82
+  - car: 0.75
+Frame 191:
+  - car: 0.97
+  - car: 0.95
+  - car: 0.97
+  - car: 0.95
+Frame 192:
+  - car: 0.98
+  - car: 0.98
+Frame 193:
+  - car: 0.95
+  - car: 0.85
+  - car: 0.95
+  - car: 0.85
+Frame 194:
+  - car: 0.96
+  - car: 0.96
+  - car: 0.77
+  - car: 0.96
+  - car: 0.96
+  - car: 0.77
+  - car: 0.96
+  - car: 0.96
+  - car: 0.77
+Frame 195:
+  - car: 0.87
+  - car: 0.75
+  - car: 0.87
+  - car: 0.75
+  - car: 0.87
+  - car: 0.75
+Frame 196:
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+Frame 197:
+  - car: 0.97
+  - car: 0.93
+  - car: 0.81
+  - car: 0.97
+  - car: 0.93
+  - car: 0.81
+  - car: 0.97
+  - car: 0.93
+  - car: 0.81
+Frame 198:
+  - car: 0.97
+  - car: 0.92
+  - car: 0.97
+  - car: 0.92
+  - car: 0.97
+  - car: 0.92
+Frame 199:
+  - car: 0.96
+  - car: 0.95
+  - car: 0.88
+  - car: 0.96
+  - car: 0.95
+  - car: 0.88
+  - car: 0.96
+  - car: 0.95
+  - car: 0.88
+Frame 200:
+  - car: 0.98
+  - car: 0.82
+  - car: 0.98
+  - car: 0.82
+  - car: 0.98
+  - car: 0.82
+Frame 201:
+  - car: 0.95
+  - car: 0.91
+  - car: 0.95
+  - car: 0.91
+  - car: 0.95
+  - car: 0.91
+Frame 202:
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+Frame 203:
+  - car: 0.99
+  - car: 0.75
+  - car: 0.99
+  - car: 0.75
+  - car: 0.99
+  - car: 0.75
+Frame 204:
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+Frame 205:
+  - car: 0.97
+  - car: 0.96
+  - car: 0.97
+  - car: 0.96
+  - car: 0.97
+  - car: 0.96
+Frame 206:
+  - car: 0.98
+  - car: 0.96
+  - car: 0.75
+  - car: 0.98
+  - car: 0.96
+  - car: 0.75
+  - car: 0.98
+  - car: 0.96
+  - car: 0.75
+Frame 207:
+  - car: 0.97
+  - car: 0.76
+  - car: 0.97
+  - car: 0.76
+  - car: 0.97
+  - car: 0.76
+Frame 208:
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+Frame 209:
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+Frame 210:
+  - car: 0.97
+  - car: 0.93
+  - car: 0.97
+  - car: 0.93
+  - car: 0.97
+  - car: 0.93
+Frame 211:
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+Frame 212:
+  - car: 0.94
+  - car: 0.94
+  - car: 0.94
+Frame 213:
+  - car: 0.91
+  - car: 0.91
+  - car: 0.91
+Frame 214:
+  - car: 0.94
+  - car: 0.94
+  - car: 0.94
+Frame 215:
+  - car: 0.95
+  - car: 0.95
+  - car: 0.95
+Frame 216:
+  - car: 0.70
+  - car: 0.70
+  - car: 0.70
+Frame 217:
+  - car: 0.94
+  - car: 0.94
+  - car: 0.94
+Frame 218:
+  - car: 0.83
+  - car: 0.83
+  - car: 0.83
+Frame 219:
+  - car: 0.95
+  - car: 0.95
+  - car: 0.95
+Frame 220:
+  - car: 0.83
+  - car: 0.83
+  - car: 0.83
+Frame 221:
+  - car: 0.91
+  - car: 0.91
+  - car: 0.91
+Frame 222:
+  - car: 0.94
+  - car: 0.94
+  - car: 0.94
+Frame 223:
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+Frame 224:
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+Frame 225:
+  - car: 0.92
+  - car: 0.92
+  - car: 0.92
+Frame 226:
+  - car: 0.95
+  - car: 0.95
+  - car: 0.95
+Frame 227:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 228:
+  - car: 0.89
+  - car: 0.89
+  - car: 0.89
+Frame 229:
+Frame 230:
+Frame 231:
+Frame 232:
+Frame 233:
+Frame 234:
+Frame 235:
+Frame 236:
+Frame 237:
+Frame 238:
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+Frame 239:
+  - car: 0.82
+  - car: 0.82
+  - car: 0.82
+Frame 240:
+  - car: 0.87
+  - car: 0.87
+  - car: 0.87
+Frame 241:
+  - car: 0.87
+  - car: 0.78
+  - car: 0.87
+  - car: 0.78
+  - car: 0.87
+  - car: 0.78
+Frame 242:
+  - car: 0.87
+  - car: 0.79
+  - car: 0.87
+  - car: 0.79
+  - car: 0.87
+  - car: 0.79
+Frame 243:
+Frame 244:
+  - car: 0.81
+  - car: 0.80
+  - car: 0.81
+  - car: 0.80
+  - car: 0.81
+  - car: 0.80
+Frame 245:
+  - car: 0.85
+  - car: 0.71
+  - car: 0.85
+  - car: 0.71
+  - car: 0.85
+  - car: 0.71
+Frame 246:
+  - car: 0.90
+  - car: 0.77
+  - car: 0.90
+  - car: 0.77
+  - car: 0.90
+  - car: 0.77
+Frame 247:
+  - car: 0.85
+  - car: 0.78
+  - car: 0.85
+  - car: 0.78
+  - car: 0.85
+  - car: 0.78
+Frame 248:
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+Frame 249:
+  - car: 0.75
+  - car: 0.75
+  - car: 0.75
+Frame 250:
+Frame 251:
+  - car: 0.80
+  - car: 0.71
+  - car: 0.80
+  - car: 0.71
+  - car: 0.80
+  - car: 0.71
+Frame 252:
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+Frame 253:
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+Frame 254:
+Frame 255:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 256:
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+Frame 257:
+Frame 258:
+Frame 259:
+  - car: 0.81
+  - car: 0.76
+  - car: 0.81
+  - car: 0.76
+  - car: 0.81
+  - car: 0.76
+Frame 260:
+  - car: 0.75
+  - car: 0.75
+  - car: 0.75
+Frame 261:
+Frame 262:
+Frame 263:
+Frame 264:
+Frame 265:
+  - car: 0.82
+  - car: 0.82
+  - car: 0.82
+Frame 266:
+  - car: 0.82
+  - car: 0.77
+  - car: 0.70
+  - car: 0.82
+  - car: 0.77
+  - car: 0.70
+  - car: 0.82
+  - car: 0.77
+  - car: 0.70
+Frame 267:
+Frame 268:
+Frame 269:
+Frame 270:
+Frame 271:
+Frame 272:
+Frame 273:
+Frame 274:
+Frame 275:
+Frame 276:
+Frame 277:
+Frame 278:
+Frame 279:
+Frame 280:
+Frame 281:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 282:
+  - car: 0.78
+  - car: 0.77
+  - car: 0.78
+  - car: 0.77
+  - car: 0.78
+  - car: 0.77
+Frame 283:
+Frame 284:
+Frame 285:
+Frame 286:
+Frame 287:
+Frame 288:
+Frame 289:
+Frame 290:
+Frame 291:
+Frame 292:
+Frame 293:
+Frame 294:
+Frame 295:
+Frame 296:
+Frame 297:
+Frame 298:
+Frame 299:
+Frame 300:
+Frame 301:
+Frame 302:
+Frame 303:
+Frame 304:
+Frame 305:
+Frame 306:
+Frame 307:
+Frame 308:
+Frame 309:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 310:
+Frame 311:
+Frame 312:
+Frame 313:
+Frame 314:
+Frame 315:
+Frame 316:
+Frame 317:
+Frame 318:
+Frame 319:
+  - car: 0.79
+  - car: 0.79
+Frame 320:
+Frame 321:
+Frame 322:
+Frame 323:
+Frame 324:
+  - car: 0.76
+  - car: 0.76
+Frame 325:
+Frame 326:
+  - car: 0.79
+  - car: 0.79
+Frame 327:
+Frame 328:
+Frame 329:
+Frame 330:
+  - car: 0.83
+  - car: 0.74
+  - car: 0.83
+  - car: 0.74
+Frame 331:
+Frame 332:
+  - car: 0.79
+  - car: 0.79
+Frame 333:
+Frame 334:
+Frame 335:
+  - car: 0.98
+  - car: 0.82
+  - car: 0.98
+  - car: 0.82
+Frame 336:
+  - car: 0.99
+  - car: 0.86
+  - car: 0.99
+  - car: 0.86
+Frame 337:
+  - car: 0.97
+  - car: 0.86
+  - car: 0.77
+  - car: 0.97
+  - car: 0.86
+  - car: 0.77
+  - car: 0.97
+  - car: 0.86
+  - car: 0.77
+  - car: 0.97
+  - car: 0.86
+  - car: 0.77
+Frame 338:
+Frame 339:
+  - car: 0.95
+  - car: 0.71
+  - car: 0.95
+  - car: 0.71
+  - car: 0.95
+  - car: 0.71
+  - car: 0.95
+  - car: 0.71
+Frame 340:
+  - car: 0.97
+  - car: 0.87
+  - car: 0.97
+  - car: 0.87
+  - car: 0.97
+  - car: 0.87
+  - car: 0.97
+  - car: 0.87
+Frame 341:
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+Frame 342:
+  - car: 0.95
+  - car: 0.95
+  - car: 0.95
+  - car: 0.95
+Frame 343:
+Frame 344:
+Frame 345:
+Frame 346:
+Frame 347:
+  - car: 0.76
+  - car: 0.76
+  - car: 0.76
+  - car: 0.76
+Frame 348:
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+Frame 349:
+Frame 350:
+Frame 351:
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+Frame 352:
+Frame 353:
+Frame 354:
+Frame 355:
+Frame 356:
+Frame 357:
+Frame 358:
+Frame 359:
+Frame 360:
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+Frame 361:
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+Frame 362:
+  - car: 0.82
+  - car: 0.82
+  - car: 0.82
+  - car: 0.82
+Frame 363:
+  - car: 0.72
+  - car: 0.72
+  - car: 0.72
+  - car: 0.72
+Frame 364:
+Frame 365:
+Frame 366:
+Frame 367:
+Frame 368:
+  - car: 0.81
+  - car: 0.81
+  - car: 0.81
+  - car: 0.81
+Frame 369:
+Frame 370:
+Frame 371:
+Frame 372:
+Frame 373:
+Frame 374:
+Frame 375:
+Frame 376:
+Frame 377:
+Frame 378:
+Frame 379:
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+Frame 380:
+Frame 381:
+Frame 382:
+  - car: 0.87
+  - car: 0.87
+  - car: 0.87
+  - car: 0.87
+Frame 383:
+  - car: 0.71
+  - car: 0.71
+  - car: 0.71
+  - car: 0.71
+Frame 384:
+  - car: 0.82
+  - car: 0.82
+  - car: 0.82
+  - car: 0.82
+Frame 385:
+Frame 386:
+Frame 387:
+Frame 388:
+Frame 389:
+Frame 390:
+Frame 391:
+Frame 392:
+Frame 393:
+Frame 394:
+Frame 395:
+Frame 396:
+Frame 397:
+Frame 398:
+Frame 399:
+  - car: 0.77
+  - car: 0.77
+  - car: 0.77
+Frame 400:
+Frame 401:
+Frame 402:
+Frame 403:
+Frame 404:
+  - car: 0.71
+  - car: 0.71
+  - car: 0.71
+Frame 405:
+Frame 406:
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+Frame 407:
+Frame 408:
+  - car: 0.74
+  - car: 0.74
+  - car: 0.74
+Frame 409:
+Frame 410:
+Frame 411:
+  - car: 0.74
+  - car: 0.74
+  - car: 0.74
+Frame 412:
+  - car: 0.88
+  - car: 0.71
+  - car: 0.88
+  - car: 0.71
+  - car: 0.88
+  - car: 0.71
+Frame 413:
+  - car: 0.87
+  - car: 0.87
+  - car: 0.87
+Frame 414:
+  - car: 0.86
+  - car: 0.80
+  - car: 0.86
+  - car: 0.80
+  - car: 0.86
+  - car: 0.80
+Frame 415:
+Frame 416:
+Frame 417:
+  - car: 0.84
+  - car: 0.74
+  - car: 0.84
+  - car: 0.74
+  - car: 0.84
+  - car: 0.74
+Frame 418:
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+Frame 419:
+  - car: 0.77
+  - car: 0.77
+  - car: 0.77
+Frame 420:
+Frame 421:
+  - car: 0.81
+  - car: 0.81
+  - car: 0.81
+Frame 422:
+  - car: 0.83
+  - car: 0.83
+  - car: 0.83
+Frame 423:
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+Frame 424:
+  - car: 0.94
+  - car: 0.94
+  - car: 0.94
+Frame 425:
+  - car: 0.93
+  - car: 0.75
+  - car: 0.93
+  - car: 0.75
+  - car: 0.93
+  - car: 0.75
+Frame 426:
+Frame 427:
+  - car: 0.91
+  - car: 0.91
+  - car: 0.91
+Frame 428:
+  - car: 0.91
+  - car: 0.71
+  - car: 0.91
+  - car: 0.71
+  - car: 0.91
+  - car: 0.71
+Frame 429:
+  - car: 0.96
+  - car: 0.88
+  - car: 0.80
+  - car: 0.96
+  - car: 0.88
+  - car: 0.80
+  - car: 0.96
+  - car: 0.88
+  - car: 0.80
+Frame 430:
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+Frame 431:
+  - car: 0.72
+  - car: 0.72
+  - car: 0.72
+Frame 432:
+  - car: 0.96
+  - car: 0.77
+  - car: 0.96
+  - car: 0.77
+  - car: 0.96
+  - car: 0.77
+Frame 433:
+  - car: 0.95
+  - car: 0.74
+  - car: 0.95
+  - car: 0.74
+  - car: 0.95
+  - car: 0.74
+Frame 434:
+  - car: 0.89
+  - car: 0.89
+  - car: 0.89
+Frame 435:
+  - car: 0.92
+  - car: 0.92
+  - car: 0.92
+Frame 436:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 437:
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+Frame 438:
+Frame 439:
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+Frame 440:
+  - car: 0.80
+  - car: 0.75
+  - car: 0.80
+  - car: 0.75
+  - car: 0.80
+  - car: 0.75
+Frame 441:
+Frame 442:
+  - car: 0.80
+  - car: 0.71
+  - car: 0.80
+  - car: 0.71
+  - car: 0.80
+  - car: 0.71
+Frame 443:
+Frame 444:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 445:
+Frame 446:
+Frame 447:
+Frame 448:
+Frame 449:
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+Frame 450:
+Frame 451:
+Frame 452:
+Frame 453:
+Frame 454:
+Frame 455:
+Frame 456:
+Frame 457:
+Frame 458:
+Frame 459:
+Frame 460:
+Frame 461:
+  - car: 0.74
+  - car: 0.74
+  - car: 0.74
+Frame 462:
+Frame 463:
+Frame 464:
+Frame 465:
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+Frame 466:
+Frame 467:
+Frame 468:
+Frame 469:
+Frame 470:
+Frame 471:
+Frame 472:
+Frame 473:
+Frame 474:
+Frame 475:
+Frame 476:
+Frame 477:
+Frame 478:
+Frame 479:
+Frame 480:
+Frame 481:
+Frame 482:
+Frame 483:
+Frame 484:
+Frame 485:
+  - car: 0.77
+  - car: 0.77
+  - car: 0.77
+Frame 486:
+Frame 487:
+Frame 488:
+  - car: 0.84
+  - car: 0.81
+  - car: 0.84
+  - car: 0.81
+  - car: 0.84
+  - car: 0.81
+Frame 489:
+  - car: 0.92
+  - car: 0.80
+  - car: 0.92
+  - car: 0.80
+  - car: 0.92
+  - car: 0.80
+Frame 490:
+Frame 491:
+  - car: 0.89
+  - car: 0.89
+  - car: 0.89
+Frame 492:
+  - car: 0.77
+  - car: 0.77
+  - car: 0.77
+Frame 493:
+  - car: 0.77
+  - car: 0.77
+  - car: 0.77
+Frame 494:
+  - car: 0.74
+  - car: 0.74
+  - car: 0.74
+Frame 495:
+Frame 496:
+Frame 497:
+Frame 498:
+Frame 499:
+Frame 500:
+Frame 501:
+Frame 502:
+  - car: 0.81
+  - car: 0.81
+Frame 503:
+  - car: 0.89
+  - car: 0.89
+Frame 504:
+  - car: 0.72
+  - car: 0.72
+Frame 505:
+Frame 506:
+Frame 507:
+Frame 508:
+Frame 509:
+  - car: 0.74
+  - car: 0.74
+Frame 510:
+  - car: 0.87
+  - car: 0.87
+Frame 511:
+  - car: 0.75
+  - car: 0.75
+Frame 512:
+  - car: 0.84
+  - car: 0.70
+  - car: 0.84
+  - car: 0.70
+Frame 513:
+  - car: 0.77
+  - car: 0.77
+Frame 514:
+  - car: 0.76
+  - car: 0.74
+  - car: 0.76
+  - car: 0.74
+Frame 515:
+  - car: 0.86
+  - car: 0.70
+  - car: 0.86
+  - car: 0.70
+Frame 516:
+  - car: 0.84
+  - car: 0.84
+Frame 517:
+Frame 518:
+Frame 519:
+Frame 520:
+  - car: 0.75
+  - car: 0.75
+Frame 521:
+Frame 522:
+  - car: 0.89
+  - car: 0.89
+Frame 523:
+  - car: 0.80
+  - car: 0.80
+Frame 524:
+Frame 525:
+  - car: 0.78
+  - car: 0.78
+Frame 526:
+Frame 527:
+Frame 528:
+Frame 529:
+Frame 530:
+Frame 531:
+  - car: 0.94
+  - car: 0.94
+Frame 532:
+  - car: 0.75
+  - car: 0.75
+Frame 533:
+Frame 534:
+Frame 535:
+Frame 536:
+Frame 537:
+Frame 538:
+Frame 539:
+Frame 540:
+Frame 541:
+Frame 542:
+Frame 543:
+Frame 544:
+Frame 545:
+Frame 546:
+Frame 547:
+Frame 548:
+Frame 549:
+Frame 550:
+Frame 551:
+Frame 552:
+Frame 553:
+Frame 554:
+Frame 555:
+Frame 556:
+Frame 557:
+Frame 558:
+Frame 559:
+Frame 560:
+Frame 561:
+Frame 562:
+Frame 563:
+Frame 564:
+Frame 565:
+Frame 566:
+Frame 567:
+Frame 568:
+Frame 569:
+Frame 570:
+Frame 571:
+Frame 572:
+Frame 573:
+Frame 574:
+Frame 575:
+Frame 576:
+Frame 577:
+Frame 578:
+Frame 579:
+Frame 580:
+Frame 581:
+Frame 582:
+Frame 583:
+Frame 584:
+Frame 585:
+Frame 586:
+Frame 587:
+Frame 588:
+Frame 589:
+Frame 590:
+Frame 591:
+Frame 592:
+Frame 593:
+Frame 594:
+Frame 595:
+Frame 596:
+Frame 597:
+Frame 598:
+Frame 599:
+Frame 600:
+Frame 601:
+Frame 602:
+Frame 603:
+Frame 604:
+Frame 605:
+Frame 606:
+Frame 607:
+Frame 608:
+Frame 609:
+Frame 610:
+Frame 611:
+Frame 612:
+Frame 613:
+Frame 614:
+Frame 615:
+Frame 616:
+Frame 617:
+Frame 618:
+Frame 619:
+Frame 620:
+Frame 621:
+Frame 622:
+Frame 623:
+Frame 624:
+Frame 625:
+Frame 626:
+Frame 627:
+Frame 628:
+Frame 629:
+Frame 630:
+Frame 631:
+Frame 632:
+Frame 633:
+Frame 634:
+Frame 635:
+Frame 636:
+Frame 637:
+Frame 638:
+Frame 639:
+Frame 640:
+Frame 641:
+Frame 642:
+Frame 643:
+Frame 644:
+Frame 645:
+Frame 646:
+Frame 647:
+Frame 648:
+Frame 649:
+Frame 650:
+Frame 651:
+Frame 652:
+Frame 653:
+Frame 654:
+Frame 655:
+Frame 656:
+Frame 657:
+Frame 658:
+Frame 659:
+Frame 660:
+Frame 661:
+Frame 662:
+Frame 663:
+Frame 664:
+Frame 665:
+Frame 666:
+Frame 667:
+Frame 668:
+Frame 669:
+Frame 670:
+Frame 671:
+Frame 672:
+Frame 673:
+Frame 674:
+Frame 675:
+Frame 676:
+Frame 677:
+Frame 678:
+Frame 679:
+Frame 680:
+Frame 681:
+Frame 682:
+Frame 683:
+Frame 684:
+Frame 685:
+Frame 686:
+Frame 687:
+Frame 688:
+Frame 689:
+Frame 690:
+Frame 691:
+Frame 692:
+Frame 693:
+Frame 694:
+Frame 695:
+Frame 696:
+Frame 697:
+Frame 698:
+Frame 699:
+Frame 700:
+Frame 701:
+Frame 702:
+Frame 703:
+Frame 704:
+Frame 705:
+Frame 706:
+Frame 707:
+Frame 708:
+Frame 709:
+Frame 710:
+Frame 711:
+Frame 712:
+Frame 713:
+Frame 714:
+Frame 715:
+Frame 716:
+Frame 717:
+Frame 718:
+Frame 719:
+Frame 720:
+Frame 721:
+Frame 722:
+Frame 723:
+Frame 724:
+Frame 725:
+Frame 726:
+Frame 727:
+Frame 728:
+Frame 729:
+Frame 730:
+Frame 731:
+Frame 732:
+Frame 733:
+Frame 734:
+Frame 735:
+Frame 736:
+Frame 737:
+Frame 738:
+Frame 739:
+Frame 740:
+Frame 741:
+Frame 742:
+Frame 743:
+Frame 744:
+Frame 745:
+Frame 746:
+Frame 747:
+Frame 748:
+Frame 749:
+Frame 750:
+Frame 751:
+Frame 752:
+Frame 753:
+Frame 754:
+Frame 755:
+Frame 756:
+Frame 757:
+Frame 758:
+Frame 759:
+Frame 760:
+Frame 761:
+Frame 762:
+Frame 763:
+Frame 764:
+Frame 765:
+Frame 766:
+Frame 767:
+Frame 768:
+Frame 769:
+Frame 770:
+Frame 771:
+Frame 772:
+Frame 773:
+Frame 774:
+Frame 775:
+Frame 776:
+Frame 777:
+Frame 778:
+Frame 779:
+Frame 780:
+Frame 781:
+Frame 782:
+Frame 783:
+Frame 784:
+Frame 785:
+Frame 786:
+Frame 787:
+Frame 788:
+Frame 789:
+Frame 790:
+Frame 791:
+Frame 792:
+Frame 793:
+Frame 794:
+Frame 795:
+Frame 796:
+Frame 797:
+Frame 798:
+Frame 799:
+Frame 800:
+Frame 801:
+Frame 802:
+Frame 803:
+Frame 804:
+Frame 805:
+Frame 806:
+Frame 807:
+Frame 808:
+Frame 809:
+Frame 810:
+Frame 811:
+Frame 812:
+Frame 813:
+Frame 814:
+Frame 815:
+Frame 816:
+Frame 817:
+Frame 818:
+Frame 819:
+Frame 820:
+Frame 821:
+Frame 822:
+Frame 823:
+Frame 824:
+Frame 825:
+Frame 826:
+Frame 827:
+Frame 828:
+Frame 829:
+Frame 830:
+Frame 831:
+Frame 832:
+Frame 833:
+Frame 834:
+Frame 835:
+Frame 836:
+Frame 837:
+Frame 838:
+Frame 839:
+Frame 840:
+Frame 841:
+Frame 842:
+  - truck: 0.72
+Frame 843:
+Frame 844:
+Frame 845:
+  - truck: 0.80
+Frame 846:
+Frame 847:
+Frame 848:
+Frame 849:
+Frame 850:
+Frame 851:
+Frame 852:
+Frame 853:
+Frame 854:
+Frame 855:
+Frame 856:
+Frame 857:
+Frame 858:
+Frame 859:
+Frame 860:
+Frame 861:
+Frame 862:
+Frame 863:
+Frame 864:
+Frame 865:
+Frame 866:
+Frame 867:
+Frame 868:
+Frame 869:
+Frame 870:
+Frame 871:
+Frame 872:
+Frame 873:
+Frame 874:
+Frame 875:
+Frame 876:
+Frame 877:
+Frame 878:
+Frame 879:
+Frame 880:
+Frame 881:
+Frame 882:
+Frame 883:
+Frame 884:
+Frame 885:
+Frame 886:
+Frame 887:
+Frame 888:
+Frame 889:
+Frame 890:
+Frame 891:
+Frame 892:
+Frame 893:
+Frame 894:
+Frame 895:
+Frame 896:
+Frame 897:
+Frame 898:
+Frame 899:
+Frame 900:
+Frame 901:
+Frame 902:
+Frame 903:
+Frame 904:
+Frame 905:
+Frame 906:
+Frame 907:
+Frame 908:
+Frame 909:
+Frame 910:
+Frame 911:
+Frame 912:
+Frame 913:
+Frame 914:
+Frame 915:
+Frame 916:
+Frame 917:
+Frame 918:
+Frame 919:
+Frame 920:
+Frame 921:
+Frame 922:
+Frame 923:
+Frame 924:
+Frame 925:
+Frame 926:
+Frame 927:
+Frame 928:
+Frame 929:
+Frame 930:
+Frame 931:
+Frame 932:
+Frame 933:
+Frame 934:
+Frame 935:
+Frame 936:
+Frame 937:
+Frame 938:
+Frame 939:
+Frame 940:
+Frame 941:
+Frame 942:
+Frame 943:
+Frame 944:
+Frame 945:
+Frame 946:
+Frame 947:
+Frame 948:
+Frame 949:
+Frame 950:
+Frame 951:
+Frame 952:
+Frame 953:
+Frame 954:
+Frame 955:
+Frame 956:
+Frame 957:
+Frame 958:
+Frame 959:
+Frame 960:
+Frame 961:
+Frame 962:
+Frame 963:
+Frame 964:
+Frame 965:
+Frame 966:
+Frame 967:
+Frame 968:
+Frame 969:
+Frame 970:
+Frame 971:
+Frame 972:
+Frame 973:
+Frame 974:
+Frame 975:
+Frame 976:
+Frame 977:
+Frame 978:
+Frame 979:
+Frame 980:
+Frame 981:
+Frame 982:
+Frame 983:
+Frame 984:
+Frame 985:
+Frame 986:
+Frame 987:
+Frame 988:
+Frame 989:
+Frame 990:
+Frame 991:
+Frame 992:
+Frame 993:
+Frame 994:
+Frame 995:
+Frame 996:
+Frame 997:
+Frame 998:
+Frame 999:
+Frame 1000:
+Frame 1001:
+Frame 1002:
+Frame 1003:
+Frame 1004:
+Frame 1005:
+Frame 1006:
+Frame 1007:
+Frame 1008:
+Frame 1009:
+Frame 1010:
+Frame 1011:
+Frame 1012:
+Frame 1013:
+Frame 1014:
+Frame 1015:
+Frame 1016:
+Frame 1017:
+Frame 1018:
+Frame 1019:
+Frame 1020:
+Frame 1021:
+Frame 1022:
+Frame 1023:
+Frame 1024:
+Frame 1025:
+Frame 1026:
+Frame 1027:
+Frame 1028:
+Frame 1029:
+Frame 1030:
+Frame 1031:
+Frame 1032:
+Frame 1033:
+Frame 1034:
+Frame 1035:
+Frame 1036:
+Frame 1037:
+Frame 1038:
+Frame 1039:
+Frame 1040:
+Frame 1041:
+Frame 1042:
+Frame 1043:
+Frame 1044:
+Frame 1045:
+Frame 1046:
+Frame 1047:
+Frame 1048:
+Frame 1049:
+Frame 1050:
+Frame 1051:
+Frame 1052:
+Frame 1053:
+Frame 1054:
+Frame 1055:
+Frame 1056:
+Frame 1057:
+Frame 1058:
+Frame 1059:
+Frame 1060:
+Frame 1061:
+Frame 1062:
+Frame 1063:
+Frame 1064:
+Frame 1065:
+Frame 1066:
+Frame 1067:
+Frame 1068:
+Frame 1069:
+Frame 1070:
+Frame 1071:
+Frame 1072:
+Frame 1073:
+Frame 1074:
+Frame 1075:
+Frame 1076:
+Frame 1077:
+Frame 1078:
+Frame 1079:
+Frame 1080:
+Frame 1081:
+Frame 1082:
+Frame 1083:
+Frame 1084:
+Frame 1085:
+Frame 1086:
+Frame 1087:
+Frame 1088:
+Frame 1089:
+Frame 1090:
+Frame 1091:
+Frame 1092:
+Frame 1093:
+Frame 1094:
+Frame 1095:
+Frame 1096:
+Frame 1097:
+Frame 1098:
+Frame 1099:
+Frame 1100:
+Frame 1101:
+Frame 1102:
+Frame 1103:
+Frame 1104:
+Frame 1105:
+Frame 1106:
+Frame 1107:
+Frame 1108:
+Frame 1109:
+Frame 1110:
+Frame 1111:
+Frame 1112:
+Frame 1113:
+Frame 1114:
+Frame 1115:
+Frame 1116:
+Frame 1117:
+Frame 1118:
+Frame 1119:
+Frame 1120:
+Frame 1121:
+Frame 1122:
+Frame 1123:
+Frame 1124:
+Frame 1125:
+Frame 1126:
+Frame 1127:
+Frame 1128:
+Frame 1129:
+Frame 1130:
+Frame 1131:
+Frame 1132:
+Frame 1133:
+Frame 1134:
+Frame 1135:
+Frame 1136:
+Frame 1137:
+Frame 1138:
+Frame 1139:
+Frame 1140:
+Frame 1141:
+Frame 1142:
+Frame 1143:
+Frame 1144:
+Frame 1145:
+Frame 1146:
+Frame 1147:
+Frame 1148:
+Frame 1149:
+Frame 1150:
+Frame 1151:
+Frame 1152:
+Frame 1153:
+Frame 1154:
+Frame 1155:
+Frame 1156:
+Frame 1157:
+Frame 1158:
+Frame 1159:
+Frame 1160:
+Frame 1161:
+Frame 1162:
+Frame 1163:
+Frame 1164:
+Frame 1165:
+Frame 1166:
+Frame 1167:
+Frame 1168:
+Frame 1169:
+Frame 1170:
+Frame 1171:
+Frame 1172:
+Frame 1173:
+Frame 1174:
+Frame 1175:
+Frame 1176:
+Frame 1177:
+Frame 1178:
+Frame 1179:
+Frame 1180:
+Frame 1181:
+Frame 1182:
+Frame 1183:
+Frame 1184:
+Frame 1185:
+Frame 1186:
+Frame 1187:
+Frame 1188:
+Frame 1189:
+Frame 1190:
+Frame 1191:
+Frame 1192:
+Frame 1193:
+Frame 1194:
+Frame 1195:
+Frame 1196:
+Frame 1197:
+Frame 1198:
+Frame 1199:
+Frame 1200:
+Frame 1201:
+Frame 1202:
+Frame 1203:
+Frame 1204:
+Frame 1205:
+Frame 1206:
+Frame 1207:
+Frame 1208:
+Frame 1209:
+Frame 1210:
+Frame 1211:
+Frame 1212:
+Frame 1213:
+Frame 1214:
+Frame 1215:
+Frame 1216:
+Frame 1217:
+Frame 1218:
+Frame 1219:
+Frame 1220:
+Frame 1221:
+Frame 1222:
+Frame 1223:
+Frame 1224:
+Frame 1225:
+Frame 1226:
+  - car: 0.75
+Frame 1227:
+Frame 1228:
+Frame 1229:
+Frame 1230:
+  - car: 0.89
+Frame 1231:
+Frame 1232:
+Frame 1233:
+  - car: 0.85
+Frame 1234:
+Frame 1235:
+Frame 1236:
+Frame 1237:
+  - car: 0.73
+Frame 1238:
+  - car: 0.88
+Frame 1239:
+  - car: 0.98
+Frame 1240:
+  - car: 0.95
+Frame 1241:
+  - car: 0.92
+  - car: 0.81
+  - car: 0.92
+  - car: 0.81
+Frame 1242:
+  - car: 0.93
+  - car: 0.89
+  - car: 0.75
+  - car: 0.93
+  - car: 0.89
+  - car: 0.75
+  - car: 0.93
+  - car: 0.89
+  - car: 0.75
+Frame 1243:
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+Frame 1244:
+  - car: 0.94
+  - car: 0.71
+  - car: 0.94
+  - car: 0.71
+  - car: 0.94
+  - car: 0.71
+Frame 1245:
+Frame 1246:
+Frame 1247:
+  - car: 0.84
+  - car: 0.84
+  - car: 0.84
+Frame 1248:
+  - car: 0.94
+  - car: 0.76
+  - car: 0.94
+  - car: 0.76
+  - car: 0.94
+  - car: 0.76
+Frame 1249:
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+Frame 1250:
+  - car: 0.82
+  - car: 0.82
+  - car: 0.82
+Frame 1251:
+Frame 1252:
+  - car: 0.76
+  - car: 0.76
+  - car: 0.76
+Frame 1253:
+Frame 1254:
+Frame 1255:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 1256:
+Frame 1257:
+Frame 1258:
+Frame 1259:
+Frame 1260:
+Frame 1261:
+  - car: 0.77
+  - car: 0.77
+  - car: 0.77
+Frame 1262:
+Frame 1263:
+Frame 1264:
+Frame 1265:
+Frame 1266:
+  - car: 0.79
+  - car: 0.76
+  - car: 0.79
+  - car: 0.76
+  - car: 0.79
+  - car: 0.76
+Frame 1267:
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+Frame 1268:
+Frame 1269:
+Frame 1270:
+Frame 1271:
+Frame 1272:
+Frame 1273:
+Frame 1274:
+  - car: 0.71
+  - car: 0.71
+  - car: 0.71
+Frame 1275:
+  - car: 0.81
+  - car: 0.81
+  - car: 0.81
+Frame 1276:
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+Frame 1277:
+Frame 1278:
+Frame 1279:
+Frame 1280:
+Frame 1281:
+Frame 1282:
+Frame 1283:
+Frame 1284:
+Frame 1285:
+Frame 1286:
+Frame 1287:
+Frame 1288:
+Frame 1289:
+Frame 1290:
+Frame 1291:
+Frame 1292:
+Frame 1293:
+Frame 1294:
+  - car: 0.85
+  - car: 0.85
+Frame 1295:
+Frame 1296:
+Frame 1297:
+Frame 1298:
+  - car: 0.73
+  - car: 0.73
+Frame 1299:
+  - car: 0.74
+  - car: 0.74
+Frame 1300:
+  - car: 0.94
+  - car: 0.94
+Frame 1301:
+  - car: 0.97
+  - car: 0.80
+  - car: 0.97
+  - car: 0.80
+Frame 1302:
+  - car: 0.89
+  - car: 0.89
+Frame 1303:
+  - car: 0.95
+  - car: 0.95
+Frame 1304:
+  - car: 0.95
+  - car: 0.95
+Frame 1305:
+  - car: 0.86
+  - car: 0.85
+  - car: 0.86
+  - car: 0.85
+Frame 1306:
+  - car: 0.95
+  - car: 0.95
+Frame 1307:
+  - car: 0.78
+  - car: 0.78
+Frame 1308:
+Frame 1309:
+Frame 1310:
+  - car: 0.85
+  - car: 0.85
+Frame 1311:
+Frame 1312:
+  - car: 0.76
+  - car: 0.76
+Frame 1313:
+Frame 1314:
+Frame 1315:
+Frame 1316:
+Frame 1317:
+Frame 1318:
+Frame 1319:
+Frame 1320:
+Frame 1321:
+Frame 1322:
+Frame 1323:
+Frame 1324:
+Frame 1325:
+Frame 1326:
+Frame 1327:
+Frame 1328:
+Frame 1329:
+Frame 1330:
+Frame 1331:
+Frame 1332:
+Frame 1333:
+Frame 1334:
+Frame 1335:
+Frame 1336:
+Frame 1337:
+Frame 1338:
+Frame 1339:
+Frame 1340:
+Frame 1341:
+Frame 1342:
+Frame 1343:
+Frame 1344:
+Frame 1345:
+Frame 1346:
+Frame 1347:
+Frame 1348:
+Frame 1349:
+Frame 1350:
+Frame 1351:
+Frame 1352:
+Frame 1353:
+Frame 1354:
+Frame 1355:
+Frame 1356:
+Frame 1357:
+Frame 1358:
+Frame 1359:
+Frame 1360:
+Frame 1361:
+Frame 1362:
+Frame 1363:
+Frame 1364:
+Frame 1365:
+Frame 1366:
+Frame 1367:
+Frame 1368:
+Frame 1369:
+Frame 1370:
+Frame 1371:
+Frame 1372:
+Frame 1373:
+Frame 1374:
+Frame 1375:
+Frame 1376:
+Frame 1377:
+  - car: 0.84
+Frame 1378:
+Frame 1379:
+Frame 1380:
+Frame 1381:
+Frame 1382:
+Frame 1383:
+Frame 1384:
+Frame 1385:
+Frame 1386:
+Frame 1387:
+Frame 1388:
+Frame 1389:
+  - car: 0.98
+Frame 1390:
+  - car: 0.73
+Frame 1391:
+  - car: 0.95
+Frame 1392:
+  - car: 0.91
+Frame 1393:
+  - car: 0.78
+Frame 1394:
+  - car: 0.97
+Frame 1395:
+  - car: 0.87
+Frame 1396:
+  - car: 0.92
+Frame 1397:
+  - car: 0.94
+Frame 1398:
+  - car: 0.95
+Frame 1399:
+  - car: 0.91
+Frame 1400:
+  - car: 0.94
+Frame 1401:
+Frame 1402:
+Frame 1403:
+Frame 1404:
+Frame 1405:
+Frame 1406:
+Frame 1407:
+Frame 1408:
+Frame 1409:
+Frame 1410:
+Frame 1411:
+Frame 1412:
+Frame 1413:
+Frame 1414:
+  - car: 0.80
+Frame 1415:
+  - car: 0.93
+Frame 1416:
+  - car: 0.87
+Frame 1417:
+  - car: 0.73
+Frame 1418:
+Frame 1419:
+Frame 1420:
+  - car: 0.87
+Frame 1421:
+Frame 1422:
+  - car: 0.83
+Frame 1423:
+Frame 1424:
+  - car: 0.82
+Frame 1425:
+  - car: 0.75
+Frame 1426:
+Frame 1427:
+Frame 1428:
+  - car: 0.80
+Frame 1429:
+  - car: 0.90
+  - car: 0.76
+  - car: 0.90
+  - car: 0.76
+Frame 1430:
+  - car: 0.82
+  - car: 0.77
+  - car: 0.82
+  - car: 0.77
+Frame 1431:
+  - car: 0.79
+  - car: 0.73
+  - car: 0.70
+  - car: 0.79
+  - car: 0.73
+  - car: 0.70
+  - car: 0.79
+  - car: 0.73
+  - car: 0.70
+  - car: 0.79
+  - car: 0.73
+  - car: 0.70
+Frame 1432:
+  - car: 0.85
+  - car: 0.85
+  - car: 0.85
+  - car: 0.85
+Frame 1433:
+Frame 1434:
+  - car: 0.70
+  - car: 0.70
+  - car: 0.70
+  - car: 0.70
+Frame 1435:
+  - car: 0.70
+  - car: 0.70
+  - car: 0.70
+  - car: 0.70
+Frame 1436:
+  - car: 0.76
+  - car: 0.76
+  - car: 0.76
+  - car: 0.76
+Frame 1437:
+  - car: 0.84
+  - car: 0.84
+  - car: 0.84
+  - car: 0.84
+Frame 1438:
+  - car: 0.98
+  - car: 0.94
+  - car: 0.98
+  - car: 0.94
+  - car: 0.98
+  - car: 0.94
+  - car: 0.98
+  - car: 0.94
+Frame 1439:
+  - car: 0.97
+  - car: 0.94
+  - car: 0.81
+  - car: 0.97
+  - car: 0.94
+  - car: 0.81
+  - car: 0.97
+  - car: 0.94
+  - car: 0.81
+  - car: 0.97
+  - car: 0.94
+  - car: 0.81
+Frame 1440:
+  - car: 0.80
+  - car: 0.76
+  - car: 0.71
+  - car: 0.80
+  - car: 0.76
+  - car: 0.71
+  - car: 0.80
+  - car: 0.76
+  - car: 0.71
+  - car: 0.80
+  - car: 0.76
+  - car: 0.71
+Frame 1441:
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+Frame 1442:
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+Frame 1443:
+  - car: 0.94
+  - car: 0.88
+  - car: 0.94
+  - car: 0.88
+  - car: 0.94
+  - car: 0.88
+  - car: 0.94
+  - car: 0.88
+Frame 1444:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 1445:
+  - car: 0.74
+  - car: 0.74
+  - car: 0.74
+  - car: 0.74
+Frame 1446:
+  - car: 0.98
+  - car: 0.79
+  - car: 0.98
+  - car: 0.79
+  - car: 0.98
+  - car: 0.79
+  - car: 0.98
+  - car: 0.79
+Frame 1447:
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+Frame 1448:
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+Frame 1449:
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+Frame 1450:
+  - car: 0.98
+  - car: 0.92
+  - car: 0.98
+  - car: 0.92
+  - car: 0.98
+  - car: 0.92
+  - car: 0.98
+  - car: 0.92
+Frame 1451:
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+Frame 1452:
+  - car: 0.98
+  - car: 0.84
+  - car: 0.98
+  - car: 0.84
+  - car: 0.98
+  - car: 0.84
+  - car: 0.98
+  - car: 0.84
+Frame 1453:
+  - car: 0.95
+  - car: 0.85
+  - car: 0.95
+  - car: 0.85
+  - car: 0.95
+  - car: 0.85
+  - car: 0.95
+  - car: 0.85
+Frame 1454:
+  - car: 0.93
+  - car: 0.73
+  - car: 0.93
+  - car: 0.73
+  - car: 0.93
+  - car: 0.73
+  - car: 0.93
+  - car: 0.73
+Frame 1455:
+Frame 1456:
+  - car: 0.75
+  - car: 0.72
+  - car: 0.75
+  - car: 0.72
+  - car: 0.75
+  - car: 0.72
+  - car: 0.75
+  - car: 0.72
+Frame 1457:
+Frame 1458:
+Frame 1459:
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+Frame 1460:
+  - car: 0.85
+  - car: 0.85
+  - car: 0.85
+  - car: 0.85
+Frame 1461:
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+Frame 1462:
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+Frame 1463:
+  - car: 0.88
+  - car: 0.80
+  - car: 0.88
+  - car: 0.80
+  - car: 0.88
+  - car: 0.80
+  - car: 0.88
+  - car: 0.80
+Frame 1464:
+  - car: 0.98
+  - car: 0.96
+  - car: 0.98
+  - car: 0.96
+  - car: 0.98
+  - car: 0.96
+  - car: 0.98
+  - car: 0.96
+Frame 1465:
+  - car: 0.76
+  - car: 0.73
+  - car: 0.76
+  - car: 0.73
+  - car: 0.76
+  - car: 0.73
+  - car: 0.76
+  - car: 0.73
+Frame 1466:
+  - car: 0.98
+  - car: 0.93
+  - car: 0.80
+  - car: 0.78
+  - car: 0.98
+  - car: 0.93
+  - car: 0.80
+  - car: 0.78
+  - car: 0.98
+  - car: 0.93
+  - car: 0.80
+  - car: 0.78
+  - car: 0.98
+  - car: 0.93
+  - car: 0.80
+  - car: 0.78
+Frame 1467:
+  - car: 0.96
+  - car: 0.91
+  - car: 0.88
+  - car: 0.96
+  - car: 0.91
+  - car: 0.88
+  - car: 0.96
+  - car: 0.91
+  - car: 0.88
+  - car: 0.96
+  - car: 0.91
+  - car: 0.88
+Frame 1468:
+  - car: 0.81
+  - car: 0.81
+  - car: 0.81
+  - car: 0.81
+Frame 1469:
+  - car: 0.90
+  - car: 0.75
+  - car: 0.90
+  - car: 0.75
+  - car: 0.90
+  - car: 0.75
+  - car: 0.90
+  - car: 0.75
+Frame 1470:
+Frame 1471:
+  - car: 0.83
+  - car: 0.83
+  - car: 0.83
+  - car: 0.83
+Frame 1472:
+Frame 1473:
+  - car: 0.94
+  - car: 0.79
+  - car: 0.74
+  - car: 0.94
+  - car: 0.79
+  - car: 0.74
+  - car: 0.94
+  - car: 0.79
+  - car: 0.74
+  - car: 0.94
+  - car: 0.79
+  - car: 0.74
+Frame 1474:
+  - car: 0.90
+  - car: 0.73
+  - car: 0.90
+  - car: 0.73
+  - car: 0.90
+  - car: 0.73
+  - car: 0.90
+  - car: 0.73
+Frame 1475:
+Frame 1476:
+Frame 1477:
+  - car: 0.82
+  - car: 0.82
+  - car: 0.82
+  - car: 0.82
+Frame 1478:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 1479:
+Frame 1480:
+Frame 1481:
+Frame 1482:
+Frame 1483:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 1484:
+Frame 1485:
+Frame 1486:
+Frame 1487:
+Frame 1488:
+Frame 1489:
+Frame 1490:
+Frame 1491:
+Frame 1492:
+Frame 1493:
+  - car: 0.78
+  - car: 0.78
+  - car: 0.78
+  - car: 0.78
+Frame 1494:
+Frame 1495:
+Frame 1496:
+Frame 1497:
+Frame 1498:
+Frame 1499:
+Frame 1500:
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+Frame 1501:
+Frame 1502:
+Frame 1503:
+Frame 1504:
+Frame 1505:
+Frame 1506:
+Frame 1507:
+Frame 1508:
+Frame 1509:
+Frame 1510:
+Frame 1511:
+Frame 1512:
+Frame 1513:
+Frame 1514:
+Frame 1515:
+Frame 1516:
+Frame 1517:
+Frame 1518:
+Frame 1519:
+Frame 1520:
+Frame 1521:
+  - car: 0.83
+  - car: 0.70
+  - car: 0.83
+  - car: 0.70
+  - car: 0.83
+  - car: 0.70
+Frame 1522:
+  - car: 0.88
+  - car: 0.80
+  - car: 0.88
+  - car: 0.80
+  - car: 0.88
+  - car: 0.80
+Frame 1523:
+  - car: 0.83
+  - car: 0.70
+  - car: 0.83
+  - car: 0.70
+  - car: 0.83
+  - car: 0.70
+Frame 1524:
+Frame 1525:
+  - car: 0.77
+  - car: 0.73
+  - car: 0.77
+  - car: 0.73
+  - car: 0.77
+  - car: 0.73
+Frame 1526:
+Frame 1527:
+Frame 1528:
+  - car: 0.85
+  - car: 0.85
+  - car: 0.85
+Frame 1529:
+  - car: 0.75
+  - car: 0.75
+  - car: 0.75
+Frame 1530:
+  - car: 0.89
+  - car: 0.79
+  - car: 0.89
+  - car: 0.79
+  - car: 0.89
+  - car: 0.79
+Frame 1531:
+  - car: 0.84
+  - car: 0.76
+  - car: 0.84
+  - car: 0.76
+  - car: 0.84
+  - car: 0.76
+Frame 1532:
+  - car: 0.76
+  - car: 0.70
+  - car: 0.76
+  - car: 0.70
+  - car: 0.76
+  - car: 0.70
+Frame 1533:
+  - car: 0.75
+  - car: 0.75
+  - car: 0.75
+Frame 1534:
+Frame 1535:
+  - car: 0.88
+  - car: 0.88
+Frame 1536:
+Frame 1537:
+Frame 1538:
+Frame 1539:
+Frame 1540:
+  - car: 0.90
+  - car: 0.88
+  - car: 0.90
+  - car: 0.88
+Frame 1541:
+Frame 1542:
+  - car: 0.80
+  - car: 0.80
+Frame 1543:
+Frame 1544:
+Frame 1545:
+Frame 1546:
+  - car: 0.86
+  - car: 0.86
+Frame 1547:
+  - car: 0.88
+  - car: 0.88
+Frame 1548:
+  - car: 0.87
+  - car: 0.87
+Frame 1549:
+  - car: 0.79
+  - car: 0.79
+Frame 1550:
+  - car: 0.70
+  - car: 0.70
+Frame 1551:
+  - car: 0.95
+  - car: 0.95
+Frame 1552:
+  - car: 0.94
+  - car: 0.94
+Frame 1553:
+  - car: 0.97
+  - car: 0.97
+Frame 1554:
+  - car: 0.96
+  - car: 0.96
+Frame 1555:
+  - car: 0.97
+  - car: 0.97
+Frame 1556:
+  - car: 0.97
+  - car: 0.73
+  - car: 0.97
+  - car: 0.73
+Frame 1557:
+  - car: 0.95
+  - car: 0.95
+Frame 1558:
+  - car: 0.96
+  - car: 0.70
+  - car: 0.96
+  - car: 0.70
+Frame 1559:
+  - car: 0.97
+  - car: 0.89
+  - car: 0.97
+  - car: 0.89
+Frame 1560:
+  - car: 0.95
+  - car: 0.86
+  - car: 0.95
+  - car: 0.86
+Frame 1561:
+  - car: 0.98
+  - car: 0.89
+  - car: 0.98
+  - car: 0.89
+Frame 1562:
+  - car: 0.87
+  - car: 0.87
+Frame 1563:
+  - car: 0.85
+  - car: 0.85
+Frame 1564:
+  - car: 0.94
+  - car: 0.87
+  - car: 0.94
+  - car: 0.87
+Frame 1565:
+  - car: 0.85
+  - car: 0.85
+Frame 1566:
+Frame 1567:
+  - car: 0.93
+  - car: 0.93
+Frame 1568:
+  - car: 0.77
+  - car: 0.77
+Frame 1569:
+  - car: 0.86
+  - car: 0.86
+Frame 1570:
+  - car: 0.88
+  - car: 0.88
+Frame 1571:
+Frame 1572:
+  - car: 0.96
+  - car: 0.96
+Frame 1573:
+  - car: 0.90
+  - car: 0.90
+Frame 1574:
+  - car: 0.83
+  - car: 0.83
+Frame 1575:
+  - car: 0.86
+  - car: 0.86
+Frame 1576:
+  - car: 0.89
+  - car: 0.89
+Frame 1577:
+Frame 1578:
+  - car: 0.95
+  - car: 0.95
+Frame 1579:
+Frame 1580:
+  - car: 0.79
+  - car: 0.79
+Frame 1581:
+  - car: 0.92
+  - car: 0.92
+Frame 1582:
+  - car: 0.97
+  - car: 0.97
+Frame 1583:
+  - car: 0.94
+  - car: 0.94
+Frame 1584:
+  - car: 1.00
+  - car: 1.00
+Frame 1585:
+  - car: 0.98
+  - car: 0.75
+  - car: 0.98
+  - car: 0.75
+Frame 1586:
+  - car: 0.98
+  - car: 0.87
+  - car: 0.82
+  - car: 0.98
+  - car: 0.87
+  - car: 0.82
+  - car: 0.98
+  - car: 0.87
+  - car: 0.82
+Frame 1587:
+  - car: 0.95
+  - car: 0.93
+  - car: 0.90
+  - car: 0.95
+  - car: 0.93
+  - car: 0.90
+  - car: 0.95
+  - car: 0.93
+  - car: 0.90
+Frame 1588:
+  - car: 0.98
+  - car: 0.96
+  - car: 0.91
+  - car: 0.98
+  - car: 0.96
+  - car: 0.91
+  - car: 0.98
+  - car: 0.96
+  - car: 0.91
+Frame 1589:
+  - car: 0.97
+  - car: 0.97
+  - car: 0.94
+  - car: 0.97
+  - car: 0.97
+  - car: 0.94
+  - car: 0.97
+  - car: 0.97
+  - car: 0.94
+Frame 1590:
+  - car: 0.95
+  - car: 0.95
+  - car: 0.92
+  - car: 0.91
+  - car: 0.95
+  - car: 0.95
+  - car: 0.92
+  - car: 0.91
+  - car: 0.95
+  - car: 0.95
+  - car: 0.92
+  - car: 0.91
+  - car: 0.95
+  - car: 0.95
+  - car: 0.92
+  - car: 0.91
+Frame 1591:
+  - car: 0.95
+  - car: 0.89
+  - car: 0.87
+  - car: 0.75
+  - car: 0.95
+  - car: 0.89
+  - car: 0.87
+  - car: 0.75
+  - car: 0.95
+  - car: 0.89
+  - car: 0.87
+  - car: 0.75
+  - car: 0.95
+  - car: 0.89
+  - car: 0.87
+  - car: 0.75
+Frame 1592:
+  - car: 0.96
+  - car: 0.95
+  - car: 0.96
+  - car: 0.95
+  - car: 0.96
+  - car: 0.95
+  - car: 0.96
+  - car: 0.95
+Frame 1593:
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+Frame 1594:
+  - car: 0.93
+  - car: 0.91
+  - car: 0.70
+  - car: 0.93
+  - car: 0.91
+  - car: 0.70
+  - car: 0.93
+  - car: 0.91
+  - car: 0.70
+  - car: 0.93
+  - car: 0.91
+  - car: 0.70
+Frame 1595:
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+Frame 1596:
+  - car: 0.95
+  - car: 0.92
+  - car: 0.95
+  - car: 0.92
+  - car: 0.95
+  - car: 0.92
+  - car: 0.95
+  - car: 0.92
+Frame 1597:
+  - car: 0.98
+  - car: 0.95
+  - car: 0.98
+  - car: 0.95
+  - car: 0.98
+  - car: 0.95
+  - car: 0.98
+  - car: 0.95
+Frame 1598:
+  - car: 0.98
+  - car: 0.76
+  - car: 0.98
+  - car: 0.76
+  - car: 0.98
+  - car: 0.76
+  - car: 0.98
+  - car: 0.76
+Frame 1599:
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+Frame 1600:
+  - car: 0.87
+  - car: 0.72
+  - car: 0.87
+  - car: 0.72
+  - car: 0.87
+  - car: 0.72
+  - car: 0.87
+  - car: 0.72
+Frame 1601:
+  - car: 0.97
+  - car: 0.81
+  - car: 0.97
+  - car: 0.81
+  - car: 0.97
+  - car: 0.81
+  - car: 0.97
+  - car: 0.81
+Frame 1602:
+  - car: 0.98
+  - car: 0.90
+  - car: 0.76
+  - car: 0.98
+  - car: 0.90
+  - car: 0.76
+  - car: 0.98
+  - car: 0.90
+  - car: 0.76
+  - car: 0.98
+  - car: 0.90
+  - car: 0.76
+Frame 1603:
+  - car: 0.98
+  - car: 0.77
+  - car: 0.98
+  - car: 0.77
+  - car: 0.98
+  - car: 0.77
+  - car: 0.98
+  - car: 0.77
+Frame 1604:
+  - car: 0.91
+  - car: 0.89
+  - car: 0.72
+  - car: 0.91
+  - car: 0.89
+  - car: 0.72
+  - car: 0.91
+  - car: 0.89
+  - car: 0.72
+  - car: 0.91
+  - car: 0.89
+  - car: 0.72
+Frame 1605:
+  - car: 0.97
+  - car: 0.91
+  - car: 0.71
+  - car: 0.97
+  - car: 0.91
+  - car: 0.71
+  - car: 0.97
+  - car: 0.91
+  - car: 0.71
+  - car: 0.97
+  - car: 0.91
+  - car: 0.71
+Frame 1606:
+  - car: 0.91
+  - car: 0.90
+  - car: 0.80
+  - car: 0.75
+  - car: 0.74
+  - car: 0.91
+  - car: 0.90
+  - car: 0.80
+  - car: 0.75
+  - car: 0.74
+  - car: 0.91
+  - car: 0.90
+  - car: 0.80
+  - car: 0.75
+  - car: 0.74
+  - car: 0.91
+  - car: 0.90
+  - car: 0.80
+  - car: 0.75
+  - car: 0.74
+  - car: 0.91
+  - car: 0.90
+  - car: 0.80
+  - car: 0.75
+  - car: 0.74
+  - car: 0.91
+  - car: 0.90
+  - car: 0.80
+  - car: 0.75
+  - car: 0.74
+  - car: 0.91
+  - car: 0.90
+  - car: 0.80
+  - car: 0.75
+  - car: 0.74
+Frame 1607:
+  - car: 0.94
+  - car: 0.89
+  - car: 0.74
+  - car: 0.72
+  - car: 0.71
+  - car: 0.94
+  - car: 0.89
+  - car: 0.74
+  - car: 0.72
+  - car: 0.71
+  - car: 0.94
+  - car: 0.89
+  - car: 0.74
+  - car: 0.72
+  - car: 0.71
+  - car: 0.94
+  - car: 0.89
+  - car: 0.74
+  - car: 0.72
+  - car: 0.71
+  - car: 0.94
+  - car: 0.89
+  - car: 0.74
+  - car: 0.72
+  - car: 0.71
+  - car: 0.94
+  - car: 0.89
+  - car: 0.74
+  - car: 0.72
+  - car: 0.71
+  - car: 0.94
+  - car: 0.89
+  - car: 0.74
+  - car: 0.72
+  - car: 0.71
+Frame 1608:
+  - car: 0.82
+  - car: 0.81
+  - car: 0.82
+  - car: 0.81
+  - car: 0.82
+  - car: 0.81
+  - car: 0.82
+  - car: 0.81
+  - car: 0.82
+  - car: 0.81
+  - car: 0.82
+  - car: 0.81
+  - car: 0.82
+  - car: 0.81
+Frame 1609:
+  - car: 0.98
+  - car: 0.86
+  - car: 0.98
+  - car: 0.86
+  - car: 0.98
+  - car: 0.86
+  - car: 0.98
+  - car: 0.86
+  - car: 0.98
+  - car: 0.86
+  - car: 0.98
+  - car: 0.86
+  - car: 0.98
+  - car: 0.86
+Frame 1610:
+  - car: 0.98
+  - car: 0.93
+  - car: 0.98
+  - car: 0.93
+  - car: 0.98
+  - car: 0.93
+  - car: 0.98
+  - car: 0.93
+  - car: 0.98
+  - car: 0.93
+  - car: 0.98
+  - car: 0.93
+  - car: 0.98
+  - car: 0.93
+Frame 1611:
+  - car: 0.95
+  - car: 0.90
+  - car: 0.95
+  - car: 0.90
+  - car: 0.95
+  - car: 0.90
+  - car: 0.95
+  - car: 0.90
+  - car: 0.95
+  - car: 0.90
+  - car: 0.95
+  - car: 0.90
+  - car: 0.95
+  - car: 0.90
+Frame 1612:
+  - car: 0.94
+  - car: 0.92
+  - car: 0.78
+  - car: 0.94
+  - car: 0.92
+  - car: 0.78
+  - car: 0.94
+  - car: 0.92
+  - car: 0.78
+  - car: 0.94
+  - car: 0.92
+  - car: 0.78
+  - car: 0.94
+  - car: 0.92
+  - car: 0.78
+  - car: 0.94
+  - car: 0.92
+  - car: 0.78
+  - car: 0.94
+  - car: 0.92
+  - car: 0.78
+Frame 1613:
+  - car: 0.93
+  - car: 0.91
+  - car: 0.74
+  - car: 0.93
+  - car: 0.91
+  - car: 0.74
+  - car: 0.93
+  - car: 0.91
+  - car: 0.74
+  - car: 0.93
+  - car: 0.91
+  - car: 0.74
+  - car: 0.93
+  - car: 0.91
+  - car: 0.74
+  - car: 0.93
+  - car: 0.91
+  - car: 0.74
+  - car: 0.93
+  - car: 0.91
+  - car: 0.74
+Frame 1614:
+  - car: 0.96
+  - car: 0.93
+  - car: 0.73
+  - car: 0.96
+  - car: 0.93
+  - car: 0.73
+  - car: 0.96
+  - car: 0.93
+  - car: 0.73
+  - car: 0.96
+  - car: 0.93
+  - car: 0.73
+  - car: 0.96
+  - car: 0.93
+  - car: 0.73
+  - car: 0.96
+  - car: 0.93
+  - car: 0.73
+  - car: 0.96
+  - car: 0.93
+  - car: 0.73
+Frame 1615:
+  - car: 0.93
+  - car: 0.72
+  - car: 0.93
+  - car: 0.72
+  - car: 0.93
+  - car: 0.72
+  - car: 0.93
+  - car: 0.72
+  - car: 0.93
+  - car: 0.72
+  - car: 0.93
+  - car: 0.72
+  - car: 0.93
+  - car: 0.72
+Frame 1616:
+  - car: 0.99
+  - car: 0.97
+  - car: 0.74
+  - car: 0.99
+  - car: 0.97
+  - car: 0.74
+  - car: 0.99
+  - car: 0.97
+  - car: 0.74
+  - car: 0.99
+  - car: 0.97
+  - car: 0.74
+  - car: 0.99
+  - car: 0.97
+  - car: 0.74
+  - car: 0.99
+  - car: 0.97
+  - car: 0.74
+  - car: 0.99
+  - car: 0.97
+  - car: 0.74
+Frame 1617:
+  - car: 0.97
+  - car: 0.92
+  - car: 0.90
+  - car: 0.75
+  - car: 0.97
+  - car: 0.92
+  - car: 0.90
+  - car: 0.75
+  - car: 0.97
+  - car: 0.92
+  - car: 0.90
+  - car: 0.75
+  - car: 0.97
+  - car: 0.92
+  - car: 0.90
+  - car: 0.75
+  - car: 0.97
+  - car: 0.92
+  - car: 0.90
+  - car: 0.75
+  - car: 0.97
+  - car: 0.92
+  - car: 0.90
+  - car: 0.75
+  - car: 0.97
+  - car: 0.92
+  - car: 0.90
+  - car: 0.75
+Frame 1618:
+  - car: 0.96
+  - car: 0.94
+  - car: 0.75
+  - car: 0.72
+  - car: 0.96
+  - car: 0.94
+  - car: 0.75
+  - car: 0.72
+  - car: 0.96
+  - car: 0.94
+  - car: 0.75
+  - car: 0.72
+  - car: 0.96
+  - car: 0.94
+  - car: 0.75
+  - car: 0.72
+  - car: 0.96
+  - car: 0.94
+  - car: 0.75
+  - car: 0.72
+  - car: 0.96
+  - car: 0.94
+  - car: 0.75
+  - car: 0.72
+  - car: 0.96
+  - car: 0.94
+  - car: 0.75
+  - car: 0.72
+Frame 1619:
+  - car: 0.98
+  - car: 0.90
+  - car: 0.86
+  - car: 0.81
+  - car: 0.98
+  - car: 0.90
+  - car: 0.86
+  - car: 0.81
+  - car: 0.98
+  - car: 0.90
+  - car: 0.86
+  - car: 0.81
+  - car: 0.98
+  - car: 0.90
+  - car: 0.86
+  - car: 0.81
+  - car: 0.98
+  - car: 0.90
+  - car: 0.86
+  - car: 0.81
+  - car: 0.98
+  - car: 0.90
+  - car: 0.86
+  - car: 0.81
+  - car: 0.98
+  - car: 0.90
+  - car: 0.86
+  - car: 0.81
+Frame 1620:
+  - car: 0.99
+  - car: 0.89
+  - car: 0.84
+  - car: 0.84
+  - car: 0.99
+  - car: 0.89
+  - car: 0.84
+  - car: 0.84
+  - car: 0.99
+  - car: 0.89
+  - car: 0.84
+  - car: 0.84
+  - car: 0.99
+  - car: 0.89
+  - car: 0.84
+  - car: 0.84
+  - car: 0.99
+  - car: 0.89
+  - car: 0.84
+  - car: 0.84
+  - car: 0.99
+  - car: 0.89
+  - car: 0.84
+  - car: 0.84
+  - car: 0.99
+  - car: 0.89
+  - car: 0.84
+  - car: 0.84
+Frame 1621:
+  - car: 0.99
+  - car: 0.93
+  - car: 0.76
+  - car: 0.73
+  - car: 0.72
+  - car: 0.99
+  - car: 0.93
+  - car: 0.76
+  - car: 0.73
+  - car: 0.72
+  - car: 0.99
+  - car: 0.93
+  - car: 0.76
+  - car: 0.73
+  - car: 0.72
+  - car: 0.99
+  - car: 0.93
+  - car: 0.76
+  - car: 0.73
+  - car: 0.72
+  - car: 0.99
+  - car: 0.93
+  - car: 0.76
+  - car: 0.73
+  - car: 0.72
+  - car: 0.99
+  - car: 0.93
+  - car: 0.76
+  - car: 0.73
+  - car: 0.72
+  - car: 0.99
+  - car: 0.93
+  - car: 0.76
+  - car: 0.73
+  - car: 0.72
+Frame 1622:
+  - car: 0.99
+  - car: 0.98
+  - car: 0.89
+  - car: 0.82
+  - car: 0.99
+  - car: 0.98
+  - car: 0.89
+  - car: 0.82
+  - car: 0.99
+  - car: 0.98
+  - car: 0.89
+  - car: 0.82
+  - car: 0.99
+  - car: 0.98
+  - car: 0.89
+  - car: 0.82
+  - car: 0.99
+  - car: 0.98
+  - car: 0.89
+  - car: 0.82
+  - car: 0.99
+  - car: 0.98
+  - car: 0.89
+  - car: 0.82
+  - car: 0.99
+  - car: 0.98
+  - car: 0.89
+  - car: 0.82
+Frame 1623:
+  - car: 0.99
+  - car: 0.96
+  - car: 0.89
+  - car: 0.76
+  - car: 0.99
+  - car: 0.96
+  - car: 0.89
+  - car: 0.76
+  - car: 0.99
+  - car: 0.96
+  - car: 0.89
+  - car: 0.76
+  - car: 0.99
+  - car: 0.96
+  - car: 0.89
+  - car: 0.76
+  - car: 0.99
+  - car: 0.96
+  - car: 0.89
+  - car: 0.76
+  - car: 0.99
+  - car: 0.96
+  - car: 0.89
+  - car: 0.76
+  - car: 0.99
+  - car: 0.96
+  - car: 0.89
+  - car: 0.76
+Frame 1624:
+  - car: 0.97
+  - car: 0.96
+  - car: 0.97
+  - car: 0.96
+  - car: 0.97
+  - car: 0.96
+  - car: 0.97
+  - car: 0.96
+  - car: 0.97
+  - car: 0.96
+  - car: 0.97
+  - car: 0.96
+  - car: 0.97
+  - car: 0.96
+Frame 1625:
+  - car: 0.98
+  - car: 0.92
+  - car: 0.92
+  - car: 0.75
+  - car: 0.98
+  - car: 0.92
+  - car: 0.92
+  - car: 0.75
+  - car: 0.98
+  - car: 0.92
+  - car: 0.92
+  - car: 0.75
+  - car: 0.98
+  - car: 0.92
+  - car: 0.92
+  - car: 0.75
+  - car: 0.98
+  - car: 0.92
+  - car: 0.92
+  - car: 0.75
+  - car: 0.98
+  - car: 0.92
+  - car: 0.92
+  - car: 0.75
+  - car: 0.98
+  - car: 0.92
+  - car: 0.92
+  - car: 0.75
+Frame 1626:
+  - car: 0.98
+  - car: 0.87
+  - car: 0.81
+  - car: 0.98
+  - car: 0.87
+  - car: 0.81
+  - car: 0.98
+  - car: 0.87
+  - car: 0.81
+  - car: 0.98
+  - car: 0.87
+  - car: 0.81
+  - car: 0.98
+  - car: 0.87
+  - car: 0.81
+  - car: 0.98
+  - car: 0.87
+  - car: 0.81
+  - car: 0.98
+  - car: 0.87
+  - car: 0.81
+Frame 1627:
+  - car: 0.96
+  - car: 0.74
+  - car: 0.96
+  - car: 0.74
+  - car: 0.96
+  - car: 0.74
+  - car: 0.96
+  - car: 0.74
+  - car: 0.96
+  - car: 0.74
+  - car: 0.96
+  - car: 0.74
+  - car: 0.96
+  - car: 0.74
+Frame 1628:
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+Frame 1629:
+  - car: 0.94
+  - car: 0.87
+  - car: 0.94
+  - car: 0.87
+  - car: 0.94
+  - car: 0.87
+  - car: 0.94
+  - car: 0.87
+  - car: 0.94
+  - car: 0.87
+  - car: 0.94
+  - car: 0.87
+  - car: 0.94
+  - car: 0.87
+Frame 1630:
+  - car: 0.93
+  - car: 0.87
+  - car: 0.93
+  - car: 0.87
+  - car: 0.93
+  - car: 0.87
+  - car: 0.93
+  - car: 0.87
+  - car: 0.93
+  - car: 0.87
+  - car: 0.93
+  - car: 0.87
+  - car: 0.93
+  - car: 0.87
+Frame 1631:
+  - car: 0.97
+  - car: 0.89
+  - car: 0.88
+  - car: 0.81
+  - car: 0.97
+  - car: 0.89
+  - car: 0.88
+  - car: 0.81
+  - car: 0.97
+  - car: 0.89
+  - car: 0.88
+  - car: 0.81
+  - car: 0.97
+  - car: 0.89
+  - car: 0.88
+  - car: 0.81
+  - car: 0.97
+  - car: 0.89
+  - car: 0.88
+  - car: 0.81
+  - car: 0.97
+  - car: 0.89
+  - car: 0.88
+  - car: 0.81
+  - car: 0.97
+  - car: 0.89
+  - car: 0.88
+  - car: 0.81
+Frame 1632:
+  - car: 0.93
+  - car: 0.86
+  - car: 0.76
+  - car: 0.93
+  - car: 0.86
+  - car: 0.76
+  - car: 0.93
+  - car: 0.86
+  - car: 0.76
+  - car: 0.93
+  - car: 0.86
+  - car: 0.76
+  - car: 0.93
+  - car: 0.86
+  - car: 0.76
+  - car: 0.93
+  - car: 0.86
+  - car: 0.76
+  - car: 0.93
+  - car: 0.86
+  - car: 0.76
+Frame 1633:
+  - car: 0.95
+  - car: 0.85
+  - car: 0.80
+  - car: 0.95
+  - car: 0.85
+  - car: 0.80
+  - car: 0.95
+  - car: 0.85
+  - car: 0.80
+  - car: 0.95
+  - car: 0.85
+  - car: 0.80
+  - car: 0.95
+  - car: 0.85
+  - car: 0.80
+  - car: 0.95
+  - car: 0.85
+  - car: 0.80
+  - car: 0.95
+  - car: 0.85
+  - car: 0.80
+Frame 1634:
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+Frame 1635:
+  - car: 0.95
+  - car: 0.94
+  - car: 0.93
+  - car: 0.83
+  - car: 0.95
+  - car: 0.94
+  - car: 0.93
+  - car: 0.83
+  - car: 0.95
+  - car: 0.94
+  - car: 0.93
+  - car: 0.83
+  - car: 0.95
+  - car: 0.94
+  - car: 0.93
+  - car: 0.83
+  - car: 0.95
+  - car: 0.94
+  - car: 0.93
+  - car: 0.83
+  - car: 0.95
+  - car: 0.94
+  - car: 0.93
+  - car: 0.83
+  - car: 0.95
+  - car: 0.94
+  - car: 0.93
+  - car: 0.83
+Frame 1636:
+  - car: 0.96
+  - car: 0.88
+  - car: 0.88
+  - car: 0.74
+  - car: 0.96
+  - car: 0.88
+  - car: 0.88
+  - car: 0.74
+  - car: 0.96
+  - car: 0.88
+  - car: 0.88
+  - car: 0.74
+  - car: 0.96
+  - car: 0.88
+  - car: 0.88
+  - car: 0.74
+  - car: 0.96
+  - car: 0.88
+  - car: 0.88
+  - car: 0.74
+  - car: 0.96
+  - car: 0.88
+  - car: 0.88
+  - car: 0.74
+  - car: 0.96
+  - car: 0.88
+  - car: 0.88
+  - car: 0.74
+Frame 1637:
+  - car: 0.94
+  - car: 0.83
+  - car: 0.72
+  - car: 0.94
+  - car: 0.83
+  - car: 0.72
+  - car: 0.94
+  - car: 0.83
+  - car: 0.72
+  - car: 0.94
+  - car: 0.83
+  - car: 0.72
+  - car: 0.94
+  - car: 0.83
+  - car: 0.72
+  - car: 0.94
+  - car: 0.83
+  - car: 0.72
+  - car: 0.94
+  - car: 0.83
+  - car: 0.72
+Frame 1638:
+  - car: 0.89
+  - car: 0.85
+  - car: 0.79
+  - car: 0.76
+  - car: 0.89
+  - car: 0.85
+  - car: 0.79
+  - car: 0.76
+  - car: 0.89
+  - car: 0.85
+  - car: 0.79
+  - car: 0.76
+  - car: 0.89
+  - car: 0.85
+  - car: 0.79
+  - car: 0.76
+  - car: 0.89
+  - car: 0.85
+  - car: 0.79
+  - car: 0.76
+  - car: 0.89
+  - car: 0.85
+  - car: 0.79
+  - car: 0.76
+  - car: 0.89
+  - car: 0.85
+  - car: 0.79
+  - car: 0.76
+Frame 1639:
+  - car: 0.90
+  - car: 0.90
+  - car: 0.72
+  - car: 0.90
+  - car: 0.90
+  - car: 0.72
+  - car: 0.90
+  - car: 0.90
+  - car: 0.72
+  - car: 0.90
+  - car: 0.90
+  - car: 0.72
+  - car: 0.90
+  - car: 0.90
+  - car: 0.72
+  - car: 0.90
+  - car: 0.90
+  - car: 0.72
+  - car: 0.90
+  - car: 0.90
+  - car: 0.72
+Frame 1640:
+  - car: 0.96
+  - car: 0.92
+  - car: 0.77
+  - car: 0.96
+  - car: 0.92
+  - car: 0.77
+  - car: 0.96
+  - car: 0.92
+  - car: 0.77
+  - car: 0.96
+  - car: 0.92
+  - car: 0.77
+  - car: 0.96
+  - car: 0.92
+  - car: 0.77
+  - car: 0.96
+  - car: 0.92
+  - car: 0.77
+  - car: 0.96
+  - car: 0.92
+  - car: 0.77
+Frame 1641:
+  - car: 0.89
+  - car: 0.83
+  - car: 0.83
+  - car: 0.79
+  - car: 0.89
+  - car: 0.83
+  - car: 0.83
+  - car: 0.79
+  - car: 0.89
+  - car: 0.83
+  - car: 0.83
+  - car: 0.79
+  - car: 0.89
+  - car: 0.83
+  - car: 0.83
+  - car: 0.79
+  - car: 0.89
+  - car: 0.83
+  - car: 0.83
+  - car: 0.79
+  - car: 0.89
+  - car: 0.83
+  - car: 0.83
+  - car: 0.79
+  - car: 0.89
+  - car: 0.83
+  - car: 0.83
+  - car: 0.79
+Frame 1642:
+  - car: 0.90
+  - car: 0.85
+  - car: 0.82
+  - car: 0.72
+  - car: 0.90
+  - car: 0.85
+  - car: 0.82
+  - car: 0.72
+  - car: 0.90
+  - car: 0.85
+  - car: 0.82
+  - car: 0.72
+  - car: 0.90
+  - car: 0.85
+  - car: 0.82
+  - car: 0.72
+  - car: 0.90
+  - car: 0.85
+  - car: 0.82
+  - car: 0.72
+  - car: 0.90
+  - car: 0.85
+  - car: 0.82
+  - car: 0.72
+  - car: 0.90
+  - car: 0.85
+  - car: 0.82
+  - car: 0.72
+Frame 1643:
+  - car: 0.97
+  - car: 0.95
+  - car: 0.87
+  - car: 0.84
+  - car: 0.97
+  - car: 0.95
+  - car: 0.87
+  - car: 0.84
+  - car: 0.97
+  - car: 0.95
+  - car: 0.87
+  - car: 0.84
+  - car: 0.97
+  - car: 0.95
+  - car: 0.87
+  - car: 0.84
+  - car: 0.97
+  - car: 0.95
+  - car: 0.87
+  - car: 0.84
+  - car: 0.97
+  - car: 0.95
+  - car: 0.87
+  - car: 0.84
+  - car: 0.97
+  - car: 0.95
+  - car: 0.87
+  - car: 0.84
+Frame 1644:
+  - car: 0.96
+  - car: 0.92
+  - car: 0.82
+  - car: 0.96
+  - car: 0.92
+  - car: 0.82
+  - car: 0.96
+  - car: 0.92
+  - car: 0.82
+  - car: 0.96
+  - car: 0.92
+  - car: 0.82
+  - car: 0.96
+  - car: 0.92
+  - car: 0.82
+  - car: 0.96
+  - car: 0.92
+  - car: 0.82
+  - car: 0.96
+  - car: 0.92
+  - car: 0.82
+Frame 1645:
+  - car: 0.94
+  - car: 0.87
+  - car: 0.77
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.77
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.77
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.77
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.77
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.77
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.77
+  - car: 0.73
+Frame 1646:
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+Frame 1647:
+  - car: 0.96
+  - car: 0.88
+  - car: 0.96
+  - car: 0.88
+  - car: 0.96
+  - car: 0.88
+  - car: 0.96
+  - car: 0.88
+  - car: 0.96
+  - car: 0.88
+  - car: 0.96
+  - car: 0.88
+Frame 1648:
+  - car: 0.98
+  - car: 0.87
+  - car: 0.98
+  - car: 0.87
+  - car: 0.98
+  - car: 0.87
+  - car: 0.98
+  - car: 0.87
+  - car: 0.98
+  - car: 0.87
+  - car: 0.98
+  - car: 0.87
+Frame 1649:
+  - car: 0.86
+  - car: 0.80
+  - car: 0.73
+  - car: 0.86
+  - car: 0.80
+  - car: 0.73
+  - car: 0.86
+  - car: 0.80
+  - car: 0.73
+  - car: 0.86
+  - car: 0.80
+  - car: 0.73
+  - car: 0.86
+  - car: 0.80
+  - car: 0.73
+  - car: 0.86
+  - car: 0.80
+  - car: 0.73
+Frame 1650:
+  - car: 0.97
+  - car: 0.72
+  - car: 0.97
+  - car: 0.72
+  - car: 0.97
+  - car: 0.72
+  - car: 0.97
+  - car: 0.72
+  - car: 0.97
+  - car: 0.72
+  - car: 0.97
+  - car: 0.72
+Frame 1651:
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+Frame 1652:
+  - car: 0.85
+  - car: 0.85
+  - car: 0.85
+  - car: 0.85
+  - car: 0.85
+  - car: 0.85
+Frame 1653:
+  - car: 0.97
+  - car: 0.82
+  - car: 0.97
+  - car: 0.82
+  - car: 0.97
+  - car: 0.82
+  - car: 0.97
+  - car: 0.82
+  - car: 0.97
+  - car: 0.82
+  - car: 0.97
+  - car: 0.82
+Frame 1654:
+  - car: 0.88
+  - car: 0.82
+  - car: 0.81
+  - car: 0.72
+  - car: 0.88
+  - car: 0.82
+  - car: 0.81
+  - car: 0.72
+  - car: 0.88
+  - car: 0.82
+  - car: 0.81
+  - car: 0.72
+  - car: 0.88
+  - car: 0.82
+  - car: 0.81
+  - car: 0.72
+  - car: 0.88
+  - car: 0.82
+  - car: 0.81
+  - car: 0.72
+  - car: 0.88
+  - car: 0.82
+  - car: 0.81
+  - car: 0.72
+Frame 1655:
+  - car: 0.86
+  - car: 0.78
+  - car: 0.86
+  - car: 0.78
+  - car: 0.86
+  - car: 0.78
+  - car: 0.86
+  - car: 0.78
+  - car: 0.86
+  - car: 0.78
+  - car: 0.86
+  - car: 0.78
+Frame 1656:
+  - car: 0.86
+  - car: 0.77
+  - car: 0.86
+  - car: 0.77
+  - car: 0.86
+  - car: 0.77
+  - car: 0.86
+  - car: 0.77
+  - car: 0.86
+  - car: 0.77
+  - car: 0.86
+  - car: 0.77
+Frame 1657:
+Frame 1658:
+Frame 1659:
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+  - car: 0.80
+Frame 1660:
+  - car: 0.72
+  - car: 0.72
+  - car: 0.72
+  - car: 0.72
+  - car: 0.72
+  - car: 0.72
+Frame 1661:
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+Frame 1662:
+Frame 1663:
+  - car: 0.91
+  - car: 0.77
+  - car: 0.91
+  - car: 0.77
+  - car: 0.91
+  - car: 0.77
+  - car: 0.91
+  - car: 0.77
+  - car: 0.91
+  - car: 0.77
+  - car: 0.91
+  - car: 0.77
+Frame 1664:
+  - car: 0.84
+  - car: 0.81
+  - car: 0.84
+  - car: 0.81
+  - car: 0.84
+  - car: 0.81
+  - car: 0.84
+  - car: 0.81
+  - car: 0.84
+  - car: 0.81
+  - car: 0.84
+  - car: 0.81
+Frame 1665:
+  - car: 0.94
+  - car: 0.85
+  - car: 0.76
+  - car: 0.94
+  - car: 0.85
+  - car: 0.76
+  - car: 0.94
+  - car: 0.85
+  - car: 0.76
+  - car: 0.94
+  - car: 0.85
+  - car: 0.76
+  - car: 0.94
+  - car: 0.85
+  - car: 0.76
+  - car: 0.94
+  - car: 0.85
+  - car: 0.76
+Frame 1666:
+  - car: 0.93
+  - car: 0.87
+  - car: 0.86
+  - car: 0.93
+  - car: 0.87
+  - car: 0.86
+  - car: 0.93
+  - car: 0.87
+  - car: 0.86
+  - car: 0.93
+  - car: 0.87
+  - car: 0.86
+  - car: 0.93
+  - car: 0.87
+  - car: 0.86
+  - car: 0.93
+  - car: 0.87
+  - car: 0.86
+Frame 1667:
+  - car: 0.92
+  - car: 0.77
+  - car: 0.92
+  - car: 0.77
+  - car: 0.92
+  - car: 0.77
+  - car: 0.92
+  - car: 0.77
+  - car: 0.92
+  - car: 0.77
+  - car: 0.92
+  - car: 0.77
+Frame 1668:
+  - car: 0.96
+  - car: 0.89
+  - car: 0.96
+  - car: 0.89
+  - car: 0.96
+  - car: 0.89
+  - car: 0.96
+  - car: 0.89
+  - car: 0.96
+  - car: 0.89
+  - car: 0.96
+  - car: 0.89
+Frame 1669:
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+Frame 1670:
+  - car: 0.94
+  - car: 0.77
+  - car: 0.94
+  - car: 0.77
+  - car: 0.94
+  - car: 0.77
+  - car: 0.94
+  - car: 0.77
+  - car: 0.94
+  - car: 0.77
+  - car: 0.94
+  - car: 0.77
+Frame 1671:
+  - car: 0.95
+  - car: 0.94
+  - car: 0.77
+  - car: 0.95
+  - car: 0.94
+  - car: 0.77
+  - car: 0.95
+  - car: 0.94
+  - car: 0.77
+  - car: 0.95
+  - car: 0.94
+  - car: 0.77
+  - car: 0.95
+  - car: 0.94
+  - car: 0.77
+  - car: 0.95
+  - car: 0.94
+  - car: 0.77
+Frame 1672:
+  - car: 0.96
+  - car: 0.93
+  - car: 0.79
+  - car: 0.96
+  - car: 0.93
+  - car: 0.79
+  - car: 0.96
+  - car: 0.93
+  - car: 0.79
+  - car: 0.96
+  - car: 0.93
+  - car: 0.79
+  - car: 0.96
+  - car: 0.93
+  - car: 0.79
+  - car: 0.96
+  - car: 0.93
+  - car: 0.79
+Frame 1673:
+  - car: 0.97
+  - car: 0.76
+  - car: 0.76
+  - car: 0.97
+  - car: 0.76
+  - car: 0.76
+  - car: 0.97
+  - car: 0.76
+  - car: 0.76
+  - car: 0.97
+  - car: 0.76
+  - car: 0.76
+  - car: 0.97
+  - car: 0.76
+  - car: 0.76
+  - car: 0.97
+  - car: 0.76
+  - car: 0.76
+Frame 1674:
+  - car: 0.89
+  - car: 0.71
+  - car: 0.89
+  - car: 0.71
+  - car: 0.89
+  - car: 0.71
+  - car: 0.89
+  - car: 0.71
+  - car: 0.89
+  - car: 0.71
+  - car: 0.89
+  - car: 0.71
+Frame 1675:
+  - car: 0.98
+  - car: 0.92
+  - car: 0.98
+  - car: 0.92
+  - car: 0.98
+  - car: 0.92
+  - car: 0.98
+  - car: 0.92
+  - car: 0.98
+  - car: 0.92
+  - car: 0.98
+  - car: 0.92
+Frame 1676:
+  - car: 0.95
+  - car: 0.87
+  - car: 0.72
+  - car: 0.95
+  - car: 0.87
+  - car: 0.72
+  - car: 0.95
+  - car: 0.87
+  - car: 0.72
+  - car: 0.95
+  - car: 0.87
+  - car: 0.72
+  - car: 0.95
+  - car: 0.87
+  - car: 0.72
+  - car: 0.95
+  - car: 0.87
+  - car: 0.72
+Frame 1677:
+  - car: 0.97
+  - car: 0.92
+  - car: 0.83
+  - car: 0.81
+  - car: 0.97
+  - car: 0.92
+  - car: 0.83
+  - car: 0.81
+  - car: 0.97
+  - car: 0.92
+  - car: 0.83
+  - car: 0.81
+  - car: 0.97
+  - car: 0.92
+  - car: 0.83
+  - car: 0.81
+  - car: 0.97
+  - car: 0.92
+  - car: 0.83
+  - car: 0.81
+  - car: 0.97
+  - car: 0.92
+  - car: 0.83
+  - car: 0.81
+Frame 1678:
+  - car: 0.96
+  - car: 0.94
+  - car: 0.89
+  - car: 0.87
+  - car: 0.96
+  - car: 0.94
+  - car: 0.89
+  - car: 0.87
+  - car: 0.96
+  - car: 0.94
+  - car: 0.89
+  - car: 0.87
+  - car: 0.96
+  - car: 0.94
+  - car: 0.89
+  - car: 0.87
+  - car: 0.96
+  - car: 0.94
+  - car: 0.89
+  - car: 0.87
+  - car: 0.96
+  - car: 0.94
+  - car: 0.89
+  - car: 0.87
+Frame 1679:
+  - car: 0.97
+  - car: 0.85
+  - car: 0.82
+  - car: 0.72
+  - car: 0.97
+  - car: 0.85
+  - car: 0.82
+  - car: 0.72
+  - car: 0.97
+  - car: 0.85
+  - car: 0.82
+  - car: 0.72
+  - car: 0.97
+  - car: 0.85
+  - car: 0.82
+  - car: 0.72
+  - car: 0.97
+  - car: 0.85
+  - car: 0.82
+  - car: 0.72
+  - car: 0.97
+  - car: 0.85
+  - car: 0.82
+  - car: 0.72
+Frame 1680:
+  - car: 0.96
+  - car: 0.93
+  - car: 0.80
+  - car: 0.96
+  - car: 0.93
+  - car: 0.80
+  - car: 0.96
+  - car: 0.93
+  - car: 0.80
+  - car: 0.96
+  - car: 0.93
+  - car: 0.80
+  - car: 0.96
+  - car: 0.93
+  - car: 0.80
+  - car: 0.96
+  - car: 0.93
+  - car: 0.80
+Frame 1681:
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+Frame 1682:
+  - car: 0.96
+  - car: 0.94
+  - car: 0.92
+  - car: 0.96
+  - car: 0.94
+  - car: 0.92
+  - car: 0.96
+  - car: 0.94
+  - car: 0.92
+  - car: 0.96
+  - car: 0.94
+  - car: 0.92
+  - car: 0.96
+  - car: 0.94
+  - car: 0.92
+  - car: 0.96
+  - car: 0.94
+  - car: 0.92
+Frame 1683:
+  - car: 0.96
+  - car: 0.92
+  - car: 0.89
+  - car: 0.82
+  - car: 0.76
+  - car: 0.96
+  - car: 0.92
+  - car: 0.89
+  - car: 0.82
+  - car: 0.76
+  - car: 0.96
+  - car: 0.92
+  - car: 0.89
+  - car: 0.82
+  - car: 0.76
+  - car: 0.96
+  - car: 0.92
+  - car: 0.89
+  - car: 0.82
+  - car: 0.76
+  - car: 0.96
+  - car: 0.92
+  - car: 0.89
+  - car: 0.82
+  - car: 0.76
+  - car: 0.96
+  - car: 0.92
+  - car: 0.89
+  - car: 0.82
+  - car: 0.76
+Frame 1684:
+  - car: 0.96
+  - car: 0.96
+  - car: 0.94
+  - car: 0.89
+  - car: 0.84
+  - car: 0.74
+  - car: 0.96
+  - car: 0.96
+  - car: 0.94
+  - car: 0.89
+  - car: 0.84
+  - car: 0.74
+  - car: 0.96
+  - car: 0.96
+  - car: 0.94
+  - car: 0.89
+  - car: 0.84
+  - car: 0.74
+  - car: 0.96
+  - car: 0.96
+  - car: 0.94
+  - car: 0.89
+  - car: 0.84
+  - car: 0.74
+  - car: 0.96
+  - car: 0.96
+  - car: 0.94
+  - car: 0.89
+  - car: 0.84
+  - car: 0.74
+  - car: 0.96
+  - car: 0.96
+  - car: 0.94
+  - car: 0.89
+  - car: 0.84
+  - car: 0.74
+Frame 1685:
+  - car: 0.95
+  - car: 0.93
+  - car: 0.87
+  - car: 0.83
+  - car: 0.76
+  - car: 0.95
+  - car: 0.93
+  - car: 0.87
+  - car: 0.83
+  - car: 0.76
+  - car: 0.95
+  - car: 0.93
+  - car: 0.87
+  - car: 0.83
+  - car: 0.76
+  - car: 0.95
+  - car: 0.93
+  - car: 0.87
+  - car: 0.83
+  - car: 0.76
+  - car: 0.95
+  - car: 0.93
+  - car: 0.87
+  - car: 0.83
+  - car: 0.76
+  - car: 0.95
+  - car: 0.93
+  - car: 0.87
+  - car: 0.83
+  - car: 0.76
+Frame 1686:
+  - car: 0.99
+  - car: 0.93
+  - car: 0.92
+  - car: 0.86
+  - car: 0.99
+  - car: 0.93
+  - car: 0.92
+  - car: 0.86
+  - car: 0.99
+  - car: 0.93
+  - car: 0.92
+  - car: 0.86
+  - car: 0.99
+  - car: 0.93
+  - car: 0.92
+  - car: 0.86
+  - car: 0.99
+  - car: 0.93
+  - car: 0.92
+  - car: 0.86
+  - car: 0.99
+  - car: 0.93
+  - car: 0.92
+  - car: 0.86
+Frame 1687:
+  - car: 0.99
+  - car: 0.92
+  - car: 0.77
+  - car: 0.99
+  - car: 0.92
+  - car: 0.77
+  - car: 0.99
+  - car: 0.92
+  - car: 0.77
+  - car: 0.99
+  - car: 0.92
+  - car: 0.77
+  - car: 0.99
+  - car: 0.92
+  - car: 0.77
+  - car: 0.99
+  - car: 0.92
+  - car: 0.77
+Frame 1688:
+  - car: 0.98
+  - car: 0.96
+  - car: 0.98
+  - car: 0.96
+  - car: 0.98
+  - car: 0.96
+  - car: 0.98
+  - car: 0.96
+  - car: 0.98
+  - car: 0.96
+  - car: 0.98
+  - car: 0.96
+Frame 1689:
+  - car: 0.98
+  - car: 0.90
+  - car: 0.98
+  - car: 0.90
+  - car: 0.98
+  - car: 0.90
+  - car: 0.98
+  - car: 0.90
+  - car: 0.98
+  - car: 0.90
+  - car: 0.98
+  - car: 0.90
+Frame 1690:
+  - car: 0.97
+  - car: 0.88
+  - car: 0.87
+  - car: 0.72
+  - car: 0.97
+  - car: 0.88
+  - car: 0.87
+  - car: 0.72
+  - car: 0.97
+  - car: 0.88
+  - car: 0.87
+  - car: 0.72
+  - car: 0.97
+  - car: 0.88
+  - car: 0.87
+  - car: 0.72
+  - car: 0.97
+  - car: 0.88
+  - car: 0.87
+  - car: 0.72
+  - car: 0.97
+  - car: 0.88
+  - car: 0.87
+  - car: 0.72
+Frame 1691:
+  - car: 0.98
+  - car: 0.90
+  - car: 0.86
+  - car: 0.80
+  - car: 0.74
+  - car: 0.98
+  - car: 0.90
+  - car: 0.86
+  - car: 0.80
+  - car: 0.74
+  - car: 0.98
+  - car: 0.90
+  - car: 0.86
+  - car: 0.80
+  - car: 0.74
+  - car: 0.98
+  - car: 0.90
+  - car: 0.86
+  - car: 0.80
+  - car: 0.74
+  - car: 0.98
+  - car: 0.90
+  - car: 0.86
+  - car: 0.80
+  - car: 0.74
+  - car: 0.98
+  - car: 0.90
+  - car: 0.86
+  - car: 0.80
+  - car: 0.74
+Frame 1692:
+  - car: 0.95
+  - car: 0.95
+  - car: 0.93
+  - car: 0.91
+  - car: 0.85
+  - car: 0.78
+  - car: 0.95
+  - car: 0.95
+  - car: 0.93
+  - car: 0.91
+  - car: 0.85
+  - car: 0.78
+  - car: 0.95
+  - car: 0.95
+  - car: 0.93
+  - car: 0.91
+  - car: 0.85
+  - car: 0.78
+  - car: 0.95
+  - car: 0.95
+  - car: 0.93
+  - car: 0.91
+  - car: 0.85
+  - car: 0.78
+  - car: 0.95
+  - car: 0.95
+  - car: 0.93
+  - car: 0.91
+  - car: 0.85
+  - car: 0.78
+  - car: 0.95
+  - car: 0.95
+  - car: 0.93
+  - car: 0.91
+  - car: 0.85
+  - car: 0.78
+Frame 1693:
+  - car: 0.95
+  - car: 0.91
+  - car: 0.90
+  - car: 0.83
+  - car: 0.78
+  - car: 0.74
+  - car: 0.73
+  - car: 0.95
+  - car: 0.91
+  - car: 0.90
+  - car: 0.83
+  - car: 0.78
+  - car: 0.74
+  - car: 0.73
+  - car: 0.95
+  - car: 0.91
+  - car: 0.90
+  - car: 0.83
+  - car: 0.78
+  - car: 0.74
+  - car: 0.73
+  - car: 0.95
+  - car: 0.91
+  - car: 0.90
+  - car: 0.83
+  - car: 0.78
+  - car: 0.74
+  - car: 0.73
+  - car: 0.95
+  - car: 0.91
+  - car: 0.90
+  - car: 0.83
+  - car: 0.78
+  - car: 0.74
+  - car: 0.73
+  - car: 0.95
+  - car: 0.91
+  - car: 0.90
+  - car: 0.83
+  - car: 0.78
+  - car: 0.74
+  - car: 0.73
+  - car: 0.95
+  - car: 0.91
+  - car: 0.90
+  - car: 0.83
+  - car: 0.78
+  - car: 0.74
+  - car: 0.73
+  - car: 0.95
+  - car: 0.91
+  - car: 0.90
+  - car: 0.83
+  - car: 0.78
+  - car: 0.74
+  - car: 0.73
+  - car: 0.95
+  - car: 0.91
+  - car: 0.90
+  - car: 0.83
+  - car: 0.78
+  - car: 0.74
+  - car: 0.73
+Frame 1694:
+  - car: 0.96
+  - car: 0.91
+  - car: 0.84
+  - car: 0.79
+  - car: 0.96
+  - car: 0.91
+  - car: 0.84
+  - car: 0.79
+  - car: 0.96
+  - car: 0.91
+  - car: 0.84
+  - car: 0.79
+  - car: 0.96
+  - car: 0.91
+  - car: 0.84
+  - car: 0.79
+  - car: 0.96
+  - car: 0.91
+  - car: 0.84
+  - car: 0.79
+  - car: 0.96
+  - car: 0.91
+  - car: 0.84
+  - car: 0.79
+  - car: 0.96
+  - car: 0.91
+  - car: 0.84
+  - car: 0.79
+  - car: 0.96
+  - car: 0.91
+  - car: 0.84
+  - car: 0.79
+  - car: 0.96
+  - car: 0.91
+  - car: 0.84
+  - car: 0.79
+Frame 1695:
+  - car: 0.94
+  - car: 0.87
+  - car: 0.86
+  - car: 0.81
+  - car: 0.94
+  - car: 0.87
+  - car: 0.86
+  - car: 0.81
+  - car: 0.94
+  - car: 0.87
+  - car: 0.86
+  - car: 0.81
+  - car: 0.94
+  - car: 0.87
+  - car: 0.86
+  - car: 0.81
+  - car: 0.94
+  - car: 0.87
+  - car: 0.86
+  - car: 0.81
+  - car: 0.94
+  - car: 0.87
+  - car: 0.86
+  - car: 0.81
+  - car: 0.94
+  - car: 0.87
+  - car: 0.86
+  - car: 0.81
+  - car: 0.94
+  - car: 0.87
+  - car: 0.86
+  - car: 0.81
+  - car: 0.94
+  - car: 0.87
+  - car: 0.86
+  - car: 0.81
+Frame 1696:
+  - car: 0.97
+  - car: 0.95
+  - car: 0.86
+  - car: 0.74
+  - car: 0.97
+  - car: 0.95
+  - car: 0.86
+  - car: 0.74
+  - car: 0.97
+  - car: 0.95
+  - car: 0.86
+  - car: 0.74
+  - car: 0.97
+  - car: 0.95
+  - car: 0.86
+  - car: 0.74
+  - car: 0.97
+  - car: 0.95
+  - car: 0.86
+  - car: 0.74
+  - car: 0.97
+  - car: 0.95
+  - car: 0.86
+  - car: 0.74
+  - car: 0.97
+  - car: 0.95
+  - car: 0.86
+  - car: 0.74
+  - car: 0.97
+  - car: 0.95
+  - car: 0.86
+  - car: 0.74
+  - car: 0.97
+  - car: 0.95
+  - car: 0.86
+  - car: 0.74
+Frame 1697:
+  - car: 0.98
+  - car: 0.97
+  - car: 0.91
+  - car: 0.88
+  - car: 0.70
+  - car: 0.98
+  - car: 0.97
+  - car: 0.91
+  - car: 0.88
+  - car: 0.70
+  - car: 0.98
+  - car: 0.97
+  - car: 0.91
+  - car: 0.88
+  - car: 0.70
+  - car: 0.98
+  - car: 0.97
+  - car: 0.91
+  - car: 0.88
+  - car: 0.70
+  - car: 0.98
+  - car: 0.97
+  - car: 0.91
+  - car: 0.88
+  - car: 0.70
+  - car: 0.98
+  - car: 0.97
+  - car: 0.91
+  - car: 0.88
+  - car: 0.70
+  - car: 0.98
+  - car: 0.97
+  - car: 0.91
+  - car: 0.88
+  - car: 0.70
+  - car: 0.98
+  - car: 0.97
+  - car: 0.91
+  - car: 0.88
+  - car: 0.70
+  - car: 0.98
+  - car: 0.97
+  - car: 0.91
+  - car: 0.88
+  - car: 0.70
+Frame 1698:
+  - car: 0.94
+  - car: 0.94
+  - car: 0.88
+  - car: 0.80
+  - car: 0.94
+  - car: 0.94
+  - car: 0.88
+  - car: 0.80
+  - car: 0.94
+  - car: 0.94
+  - car: 0.88
+  - car: 0.80
+  - car: 0.94
+  - car: 0.94
+  - car: 0.88
+  - car: 0.80
+  - car: 0.94
+  - car: 0.94
+  - car: 0.88
+  - car: 0.80
+  - car: 0.94
+  - car: 0.94
+  - car: 0.88
+  - car: 0.80
+  - car: 0.94
+  - car: 0.94
+  - car: 0.88
+  - car: 0.80
+  - car: 0.94
+  - car: 0.94
+  - car: 0.88
+  - car: 0.80
+  - car: 0.94
+  - car: 0.94
+  - car: 0.88
+  - car: 0.80
+Frame 1699:
+  - car: 0.94
+  - car: 0.87
+  - car: 0.74
+  - car: 0.74
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.74
+  - car: 0.74
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.74
+  - car: 0.74
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.74
+  - car: 0.74
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.74
+  - car: 0.74
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.74
+  - car: 0.74
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.74
+  - car: 0.74
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.74
+  - car: 0.74
+  - car: 0.73
+  - car: 0.94
+  - car: 0.87
+  - car: 0.74
+  - car: 0.74
+  - car: 0.73
+Frame 1700:
+  - car: 0.96
+  - car: 0.95
+  - car: 0.89
+  - car: 0.80
+  - car: 0.96
+  - car: 0.95
+  - car: 0.89
+  - car: 0.80
+  - car: 0.96
+  - car: 0.95
+  - car: 0.89
+  - car: 0.80
+  - car: 0.96
+  - car: 0.95
+  - car: 0.89
+  - car: 0.80
+  - car: 0.96
+  - car: 0.95
+  - car: 0.89
+  - car: 0.80
+  - car: 0.96
+  - car: 0.95
+  - car: 0.89
+  - car: 0.80
+  - car: 0.96
+  - car: 0.95
+  - car: 0.89
+  - car: 0.80
+  - car: 0.96
+  - car: 0.95
+  - car: 0.89
+  - car: 0.80
+  - car: 0.96
+  - car: 0.95
+  - car: 0.89
+  - car: 0.80
+Frame 1701:
+  - car: 0.98
+  - car: 0.95
+  - car: 0.91
+  - car: 0.76
+  - car: 0.98
+  - car: 0.95
+  - car: 0.91
+  - car: 0.76
+  - car: 0.98
+  - car: 0.95
+  - car: 0.91
+  - car: 0.76
+  - car: 0.98
+  - car: 0.95
+  - car: 0.91
+  - car: 0.76
+  - car: 0.98
+  - car: 0.95
+  - car: 0.91
+  - car: 0.76
+  - car: 0.98
+  - car: 0.95
+  - car: 0.91
+  - car: 0.76
+  - car: 0.98
+  - car: 0.95
+  - car: 0.91
+  - car: 0.76
+  - car: 0.98
+  - car: 0.95
+  - car: 0.91
+  - car: 0.76
+  - car: 0.98
+  - car: 0.95
+  - car: 0.91
+  - car: 0.76
+Frame 1702:
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+Frame 1703:
+  - car: 0.85
+  - car: 0.77
+  - car: 0.85
+  - car: 0.77
+  - car: 0.85
+  - car: 0.77
+  - car: 0.85
+  - car: 0.77
+  - car: 0.85
+  - car: 0.77
+  - car: 0.85
+  - car: 0.77
+  - car: 0.85
+  - car: 0.77
+  - car: 0.85
+  - car: 0.77
+  - car: 0.85
+  - car: 0.77
+Frame 1704:
+  - car: 0.97
+  - car: 0.95
+  - car: 0.97
+  - car: 0.95
+  - car: 0.97
+  - car: 0.95
+  - car: 0.97
+  - car: 0.95
+  - car: 0.97
+  - car: 0.95
+  - car: 0.97
+  - car: 0.95
+  - car: 0.97
+  - car: 0.95
+  - car: 0.97
+  - car: 0.95
+  - car: 0.97
+  - car: 0.95
+Frame 1705:
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+  - car: 0.98
+  - car: 0.97
+Frame 1706:
+  - car: 0.99
+  - car: 0.75
+  - car: 0.99
+  - car: 0.75
+  - car: 0.99
+  - car: 0.75
+  - car: 0.99
+  - car: 0.75
+  - car: 0.99
+  - car: 0.75
+  - car: 0.99
+  - car: 0.75
+  - car: 0.99
+  - car: 0.75
+  - car: 0.99
+  - car: 0.75
+  - car: 0.99
+  - car: 0.75
+Frame 1707:
+  - car: 0.99
+  - car: 0.90
+  - car: 0.99
+  - car: 0.90
+  - car: 0.99
+  - car: 0.90
+  - car: 0.99
+  - car: 0.90
+  - car: 0.99
+  - car: 0.90
+  - car: 0.99
+  - car: 0.90
+  - car: 0.99
+  - car: 0.90
+  - car: 0.99
+  - car: 0.90
+  - car: 0.99
+  - car: 0.90
+Frame 1708:
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+  - car: 0.92
+  - car: 0.91
+Frame 1709:
+  - car: 0.99
+  - car: 0.98
+  - car: 0.74
+  - car: 0.99
+  - car: 0.98
+  - car: 0.74
+  - car: 0.99
+  - car: 0.98
+  - car: 0.74
+  - car: 0.99
+  - car: 0.98
+  - car: 0.74
+  - car: 0.99
+  - car: 0.98
+  - car: 0.74
+  - car: 0.99
+  - car: 0.98
+  - car: 0.74
+  - car: 0.99
+  - car: 0.98
+  - car: 0.74
+  - car: 0.99
+  - car: 0.98
+  - car: 0.74
+  - car: 0.99
+  - car: 0.98
+  - car: 0.74
+Frame 1710:
+  - car: 0.99
+  - car: 0.97
+  - car: 0.72
+  - car: 0.99
+  - car: 0.97
+  - car: 0.72
+  - car: 0.99
+  - car: 0.97
+  - car: 0.72
+  - car: 0.99
+  - car: 0.97
+  - car: 0.72
+  - car: 0.99
+  - car: 0.97
+  - car: 0.72
+  - car: 0.99
+  - car: 0.97
+  - car: 0.72
+  - car: 0.99
+  - car: 0.97
+  - car: 0.72
+  - car: 0.99
+  - car: 0.97
+  - car: 0.72
+  - car: 0.99
+  - car: 0.97
+  - car: 0.72
+Frame 1711:
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+Frame 1712:
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.73
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.73
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.73
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.73
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.73
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.73
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.73
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.73
+  - car: 0.98
+  - car: 0.97
+  - car: 0.77
+  - car: 0.73
+Frame 1713:
+  - car: 0.99
+  - car: 0.99
+  - car: 0.87
+  - car: 0.99
+  - car: 0.99
+  - car: 0.87
+  - car: 0.99
+  - car: 0.99
+  - car: 0.87
+  - car: 0.99
+  - car: 0.99
+  - car: 0.87
+  - car: 0.99
+  - car: 0.99
+  - car: 0.87
+  - car: 0.99
+  - car: 0.99
+  - car: 0.87
+  - car: 0.99
+  - car: 0.99
+  - car: 0.87
+  - car: 0.99
+  - car: 0.99
+  - car: 0.87
+  - car: 0.99
+  - car: 0.99
+  - car: 0.87
+Frame 1714:
+  - car: 0.99
+  - car: 0.98
+  - car: 0.86
+  - car: 0.78
+  - car: 0.99
+  - car: 0.98
+  - car: 0.86
+  - car: 0.78
+  - car: 0.99
+  - car: 0.98
+  - car: 0.86
+  - car: 0.78
+  - car: 0.99
+  - car: 0.98
+  - car: 0.86
+  - car: 0.78
+  - car: 0.99
+  - car: 0.98
+  - car: 0.86
+  - car: 0.78
+  - car: 0.99
+  - car: 0.98
+  - car: 0.86
+  - car: 0.78
+  - car: 0.99
+  - car: 0.98
+  - car: 0.86
+  - car: 0.78
+  - car: 0.99
+  - car: 0.98
+  - car: 0.86
+  - car: 0.78
+  - car: 0.99
+  - car: 0.98
+  - car: 0.86
+  - car: 0.78
+Frame 1715:
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+Frame 1716:
+  - car: 1.00
+  - car: 0.96
+  - car: 0.70
+  - car: 1.00
+  - car: 0.96
+  - car: 0.70
+  - car: 1.00
+  - car: 0.96
+  - car: 0.70
+  - car: 1.00
+  - car: 0.96
+  - car: 0.70
+  - car: 1.00
+  - car: 0.96
+  - car: 0.70
+  - car: 1.00
+  - car: 0.96
+  - car: 0.70
+  - car: 1.00
+  - car: 0.96
+  - car: 0.70
+  - car: 1.00
+  - car: 0.96
+  - car: 0.70
+Frame 1717:
+  - car: 1.00
+  - car: 0.91
+  - car: 1.00
+  - car: 0.91
+  - car: 1.00
+  - car: 0.91
+  - car: 1.00
+  - car: 0.91
+  - car: 1.00
+  - car: 0.91
+  - car: 1.00
+  - car: 0.91
+  - car: 1.00
+  - car: 0.91
+  - car: 1.00
+  - car: 0.91
+Frame 1718:
+  - car: 1.00
+  - car: 0.97
+  - car: 1.00
+  - car: 0.97
+  - car: 1.00
+  - car: 0.97
+  - car: 1.00
+  - car: 0.97
+  - car: 1.00
+  - car: 0.97
+  - car: 1.00
+  - car: 0.97
+  - car: 1.00
+  - car: 0.97
+  - car: 1.00
+  - car: 0.97
+Frame 1719:
+  - car: 1.00
+  - car: 0.98
+  - car: 0.82
+  - car: 1.00
+  - car: 0.98
+  - car: 0.82
+  - car: 1.00
+  - car: 0.98
+  - car: 0.82
+  - car: 1.00
+  - car: 0.98
+  - car: 0.82
+  - car: 1.00
+  - car: 0.98
+  - car: 0.82
+  - car: 1.00
+  - car: 0.98
+  - car: 0.82
+  - car: 1.00
+  - car: 0.98
+  - car: 0.82
+  - car: 1.00
+  - car: 0.98
+  - car: 0.82
+Frame 1720:
+  - car: 0.98
+  - car: 0.98
+  - car: 0.78
+  - car: 0.98
+  - car: 0.98
+  - car: 0.78
+  - car: 0.98
+  - car: 0.98
+  - car: 0.78
+  - car: 0.98
+  - car: 0.98
+  - car: 0.78
+  - car: 0.98
+  - car: 0.98
+  - car: 0.78
+  - car: 0.98
+  - car: 0.98
+  - car: 0.78
+  - car: 0.98
+  - car: 0.98
+  - car: 0.78
+  - car: 0.98
+  - car: 0.98
+  - car: 0.78
+Frame 1721:
+  - car: 0.99
+  - car: 0.97
+  - car: 0.99
+  - car: 0.97
+  - car: 0.99
+  - car: 0.97
+  - car: 0.99
+  - car: 0.97
+  - car: 0.99
+  - car: 0.97
+  - car: 0.99
+  - car: 0.97
+  - car: 0.99
+  - car: 0.97
+  - car: 0.99
+  - car: 0.97
+Frame 1722:
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+Frame 1723:
+  - car: 0.99
+  - car: 0.94
+  - car: 0.99
+  - car: 0.94
+  - car: 0.99
+  - car: 0.94
+  - car: 0.99
+  - car: 0.94
+  - car: 0.99
+  - car: 0.94
+  - car: 0.99
+  - car: 0.94
+  - car: 0.99
+  - car: 0.94
+  - car: 0.99
+  - car: 0.94
+Frame 1724:
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+Frame 1725:
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+  - car: 0.99
+  - car: 0.96
+Frame 1726:
+  - car: 0.99
+  - car: 0.97
+  - car: 0.89
+  - car: 0.78
+  - car: 0.77
+  - car: 0.99
+  - car: 0.97
+  - car: 0.89
+  - car: 0.78
+  - car: 0.77
+  - car: 0.99
+  - car: 0.97
+  - car: 0.89
+  - car: 0.78
+  - car: 0.77
+  - car: 0.99
+  - car: 0.97
+  - car: 0.89
+  - car: 0.78
+  - car: 0.77
+  - car: 0.99
+  - car: 0.97
+  - car: 0.89
+  - car: 0.78
+  - car: 0.77
+  - car: 0.99
+  - car: 0.97
+  - car: 0.89
+  - car: 0.78
+  - car: 0.77
+  - car: 0.99
+  - car: 0.97
+  - car: 0.89
+  - car: 0.78
+  - car: 0.77
+  - car: 0.99
+  - car: 0.97
+  - car: 0.89
+  - car: 0.78
+  - car: 0.77
+Frame 1727:
+  - car: 0.97
+  - car: 0.97
+  - car: 0.92
+  - car: 0.84
+  - car: 0.97
+  - car: 0.97
+  - car: 0.92
+  - car: 0.84
+  - car: 0.97
+  - car: 0.97
+  - car: 0.92
+  - car: 0.84
+  - car: 0.97
+  - car: 0.97
+  - car: 0.92
+  - car: 0.84
+  - car: 0.97
+  - car: 0.97
+  - car: 0.92
+  - car: 0.84
+  - car: 0.97
+  - car: 0.97
+  - car: 0.92
+  - car: 0.84
+  - car: 0.97
+  - car: 0.97
+  - car: 0.92
+  - car: 0.84
+  - car: 0.97
+  - car: 0.97
+  - car: 0.92
+  - car: 0.84
+Frame 1728:
+  - car: 0.96
+  - car: 0.95
+  - car: 0.92
+  - car: 0.88
+  - car: 0.96
+  - car: 0.95
+  - car: 0.92
+  - car: 0.88
+  - car: 0.96
+  - car: 0.95
+  - car: 0.92
+  - car: 0.88
+  - car: 0.96
+  - car: 0.95
+  - car: 0.92
+  - car: 0.88
+  - car: 0.96
+  - car: 0.95
+  - car: 0.92
+  - car: 0.88
+  - car: 0.96
+  - car: 0.95
+  - car: 0.92
+  - car: 0.88
+  - car: 0.96
+  - car: 0.95
+  - car: 0.92
+  - car: 0.88
+  - car: 0.96
+  - car: 0.95
+  - car: 0.92
+  - car: 0.88
+Frame 1729:
+  - car: 0.98
+  - car: 0.96
+  - car: 0.82
+  - car: 0.80
+  - car: 0.98
+  - car: 0.96
+  - car: 0.82
+  - car: 0.80
+  - car: 0.98
+  - car: 0.96
+  - car: 0.82
+  - car: 0.80
+  - car: 0.98
+  - car: 0.96
+  - car: 0.82
+  - car: 0.80
+  - car: 0.98
+  - car: 0.96
+  - car: 0.82
+  - car: 0.80
+  - car: 0.98
+  - car: 0.96
+  - car: 0.82
+  - car: 0.80
+  - car: 0.98
+  - car: 0.96
+  - car: 0.82
+  - car: 0.80
+  - car: 0.98
+  - car: 0.96
+  - car: 0.82
+  - car: 0.80
+Frame 1730:
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+  - car: 0.99
+  - car: 0.98
+Frame 1731:
+  - car: 0.99
+  - car: 0.85
+  - car: 0.99
+  - car: 0.85
+  - car: 0.99
+  - car: 0.85
+  - car: 0.99
+  - car: 0.85
+  - car: 0.99
+  - car: 0.85
+  - car: 0.99
+  - car: 0.85
+  - car: 0.99
+  - car: 0.85
+  - car: 0.99
+  - car: 0.85
+Frame 1732:
+  - car: 0.99
+  - car: 0.99
+  - car: 0.99
+  - car: 0.99
+  - car: 0.99
+  - car: 0.99
+  - car: 0.99
+  - car: 0.99
+Frame 1733:
+  - car: 0.99
+  - car: 0.71
+  - car: 0.99
+  - car: 0.71
+  - car: 0.99
+  - car: 0.71
+  - car: 0.99
+  - car: 0.71
+  - car: 0.99
+  - car: 0.71
+  - car: 0.99
+  - car: 0.71
+  - car: 0.99
+  - car: 0.71
+  - car: 0.99
+  - car: 0.71
+Frame 1734:
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+  - car: 0.97
+  - car: 0.91
+Frame 1735:
+  - car: 0.97
+  - car: 0.90
+  - car: 0.97
+  - car: 0.90
+  - car: 0.97
+  - car: 0.90
+  - car: 0.97
+  - car: 0.90
+  - car: 0.97
+  - car: 0.90
+  - car: 0.97
+  - car: 0.90
+  - car: 0.97
+  - car: 0.90
+  - car: 0.97
+  - car: 0.90
+Frame 1736:
+  - car: 0.96
+  - car: 0.91
+  - car: 0.96
+  - car: 0.91
+  - car: 0.96
+  - car: 0.91
+  - car: 0.96
+  - car: 0.91
+  - car: 0.96
+  - car: 0.91
+  - car: 0.96
+  - car: 0.91
+  - car: 0.96
+  - car: 0.91
+  - car: 0.96
+  - car: 0.91
+Frame 1737:
+  - car: 0.96
+  - car: 0.90
+  - car: 0.74
+  - car: 0.96
+  - car: 0.90
+  - car: 0.74
+  - car: 0.96
+  - car: 0.90
+  - car: 0.74
+  - car: 0.96
+  - car: 0.90
+  - car: 0.74
+  - car: 0.96
+  - car: 0.90
+  - car: 0.74
+  - car: 0.96
+  - car: 0.90
+  - car: 0.74
+  - car: 0.96
+  - car: 0.90
+  - car: 0.74
+  - car: 0.96
+  - car: 0.90
+  - car: 0.74
+Frame 1738:
+  - car: 0.95
+  - car: 0.91
+  - car: 0.95
+  - car: 0.91
+  - car: 0.95
+  - car: 0.91
+  - car: 0.95
+  - car: 0.91
+  - car: 0.95
+  - car: 0.91
+  - car: 0.95
+  - car: 0.91
+  - car: 0.95
+  - car: 0.91
+  - car: 0.95
+  - car: 0.91
+Frame 1739:
+  - car: 0.96
+  - car: 0.92
+  - car: 0.80
+  - car: 0.96
+  - car: 0.92
+  - car: 0.80
+  - car: 0.96
+  - car: 0.92
+  - car: 0.80
+  - car: 0.96
+  - car: 0.92
+  - car: 0.80
+  - car: 0.96
+  - car: 0.92
+  - car: 0.80
+  - car: 0.96
+  - car: 0.92
+  - car: 0.80
+  - car: 0.96
+  - car: 0.92
+  - car: 0.80
+  - car: 0.96
+  - car: 0.92
+  - car: 0.80
+Frame 1740:
+  - car: 0.97
+  - car: 0.92
+  - car: 0.97
+  - car: 0.92
+  - car: 0.97
+  - car: 0.92
+  - car: 0.97
+  - car: 0.92
+  - car: 0.97
+  - car: 0.92
+  - car: 0.97
+  - car: 0.92
+  - car: 0.97
+  - car: 0.92
+  - car: 0.97
+  - car: 0.92
+Frame 1741:
+  - car: 0.97
+  - car: 0.94
+  - car: 0.97
+  - car: 0.94
+  - car: 0.97
+  - car: 0.94
+  - car: 0.97
+  - car: 0.94
+  - car: 0.97
+  - car: 0.94
+  - car: 0.97
+  - car: 0.94
+  - car: 0.97
+  - car: 0.94
+  - car: 0.97
+  - car: 0.94
+Frame 1742:
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+  - car: 0.96
+  - car: 0.94
+Frame 1743:
+  - car: 0.95
+  - car: 0.89
+  - car: 0.95
+  - car: 0.89
+  - car: 0.95
+  - car: 0.89
+  - car: 0.95
+  - car: 0.89
+  - car: 0.95
+  - car: 0.89
+  - car: 0.95
+  - car: 0.89
+  - car: 0.95
+  - car: 0.89
+  - car: 0.95
+  - car: 0.89
+Frame 1744:
+  - car: 0.95
+  - car: 0.94
+  - car: 0.95
+  - car: 0.94
+  - car: 0.95
+  - car: 0.94
+  - car: 0.95
+  - car: 0.94
+  - car: 0.95
+  - car: 0.94
+  - car: 0.95
+  - car: 0.94
+  - car: 0.95
+  - car: 0.94
+Frame 1745:
+  - car: 0.97
+  - car: 0.90
+  - car: 0.72
+  - car: 0.97
+  - car: 0.90
+  - car: 0.72
+  - car: 0.97
+  - car: 0.90
+  - car: 0.72
+  - car: 0.97
+  - car: 0.90
+  - car: 0.72
+  - car: 0.97
+  - car: 0.90
+  - car: 0.72
+  - car: 0.97
+  - car: 0.90
+  - car: 0.72
+  - car: 0.97
+  - car: 0.90
+  - car: 0.72
+Frame 1746:
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+  - car: 0.98
+Frame 1747:
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+  - car: 0.93
+  - car: 0.90
+Frame 1748:
+  - car: 0.97
+  - car: 0.81
+  - car: 0.97
+  - car: 0.81
+  - car: 0.97
+  - car: 0.81
+  - car: 0.97
+  - car: 0.81
+  - car: 0.97
+  - car: 0.81
+  - car: 0.97
+  - car: 0.81
+  - car: 0.97
+  - car: 0.81
+Frame 1749:
+  - car: 0.97
+  - car: 0.86
+  - car: 0.97
+  - car: 0.86
+  - car: 0.97
+  - car: 0.86
+  - car: 0.97
+  - car: 0.86
+  - car: 0.97
+  - car: 0.86
+  - car: 0.97
+  - car: 0.86
+  - car: 0.97
+  - car: 0.86
+Frame 1750:
+  - car: 0.95
+  - car: 0.90
+  - car: 0.76
+  - car: 0.95
+  - car: 0.90
+  - car: 0.76
+  - car: 0.95
+  - car: 0.90
+  - car: 0.76
+  - car: 0.95
+  - car: 0.90
+  - car: 0.76
+  - car: 0.95
+  - car: 0.90
+  - car: 0.76
+  - car: 0.95
+  - car: 0.90
+  - car: 0.76
+  - car: 0.95
+  - car: 0.90
+  - car: 0.76
+Frame 1751:
+  - car: 0.96
+  - car: 0.87
+  - car: 0.82
+  - car: 0.96
+  - car: 0.87
+  - car: 0.82
+  - car: 0.96
+  - car: 0.87
+  - car: 0.82
+  - car: 0.96
+  - car: 0.87
+  - car: 0.82
+  - car: 0.96
+  - car: 0.87
+  - car: 0.82
+  - car: 0.96
+  - car: 0.87
+  - car: 0.82
+  - car: 0.96
+  - car: 0.87
+  - car: 0.82
+Frame 1752:
+  - car: 0.90
+  - car: 0.74
+  - car: 0.90
+  - car: 0.74
+  - car: 0.90
+  - car: 0.74
+  - car: 0.90
+  - car: 0.74
+  - car: 0.90
+  - car: 0.74
+  - car: 0.90
+  - car: 0.74
+  - car: 0.90
+  - car: 0.74
+Frame 1753:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 1754:
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+Frame 1755:
+  - car: 0.88
+  - car: 0.88
+  - car: 0.88
+  - car: 0.88
+  - car: 0.88
+  - car: 0.88
+  - car: 0.88
+Frame 1756:
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+Frame 1757:
+  - car: 0.96
+  - car: 0.72
+  - car: 0.96
+  - car: 0.72
+  - car: 0.96
+  - car: 0.72
+  - car: 0.96
+  - car: 0.72
+  - car: 0.96
+  - car: 0.72
+  - car: 0.96
+  - car: 0.72
+  - car: 0.96
+  - car: 0.72
+Frame 1758:
+Frame 1759:
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+Frame 1760:
+Frame 1761:
+  - car: 0.77
+  - car: 0.77
+  - car: 0.77
+  - car: 0.77
+  - car: 0.77
+  - car: 0.77
+  - car: 0.77
+Frame 1762:
+Frame 1763:
+Frame 1764:
+Frame 1765:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 1766:
+Frame 1767:
+Frame 1768:
+Frame 1769:
+Frame 1770:
+Frame 1771:
+  - car: 0.84
+  - car: 0.84
+  - car: 0.84
+  - car: 0.84
+  - car: 0.84
+  - car: 0.84
+  - car: 0.84
+Frame 1772:
+Frame 1773:
+  - car: 0.70
+  - car: 0.70
+  - car: 0.70
+  - car: 0.70
+  - car: 0.70
+  - car: 0.70
+  - car: 0.70
+Frame 1774:
+  - car: 0.77
+  - car: 0.74
+  - car: 0.77
+  - car: 0.74
+  - car: 0.77
+  - car: 0.74
+  - car: 0.77
+  - car: 0.74
+  - car: 0.77
+  - car: 0.74
+  - car: 0.77
+  - car: 0.74
+  - car: 0.77
+  - car: 0.74
+Frame 1775:
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+  - car: 0.73
+Frame 1776:
+  - car: 0.93
+  - car: 0.70
+  - car: 0.93
+  - car: 0.70
+  - car: 0.93
+  - car: 0.70
+  - car: 0.93
+  - car: 0.70
+  - car: 0.93
+  - car: 0.70
+  - car: 0.93
+  - car: 0.70
+  - car: 0.93
+  - car: 0.70
+Frame 1777:
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+  - car: 0.90
+Frame 1778:
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+Frame 1779:
+  - car: 0.95
+  - car: 0.81
+  - car: 0.95
+  - car: 0.81
+  - car: 0.95
+  - car: 0.81
+  - car: 0.95
+  - car: 0.81
+  - car: 0.95
+  - car: 0.81
+  - car: 0.95
+  - car: 0.81
+  - car: 0.95
+  - car: 0.81
+Frame 1780:
+  - car: 0.93
+  - car: 0.82
+  - car: 0.76
+  - car: 0.93
+  - car: 0.82
+  - car: 0.76
+  - car: 0.93
+  - car: 0.82
+  - car: 0.76
+  - car: 0.93
+  - car: 0.82
+  - car: 0.76
+  - car: 0.93
+  - car: 0.82
+  - car: 0.76
+  - car: 0.93
+  - car: 0.82
+  - car: 0.76
+  - car: 0.93
+  - car: 0.82
+  - car: 0.76
+Frame 1781:
+  - car: 0.94
+  - car: 0.89
+  - car: 0.72
+  - car: 0.94
+  - car: 0.89
+  - car: 0.72
+  - car: 0.94
+  - car: 0.89
+  - car: 0.72
+  - car: 0.94
+  - car: 0.89
+  - car: 0.72
+  - car: 0.94
+  - car: 0.89
+  - car: 0.72
+  - car: 0.94
+  - car: 0.89
+  - car: 0.72
+  - car: 0.94
+  - car: 0.89
+  - car: 0.72
+Frame 1782:
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+  - car: 0.97
+Frame 1783:
+  - car: 0.91
+  - car: 0.87
+  - car: 0.83
+  - car: 0.91
+  - car: 0.87
+  - car: 0.83
+  - car: 0.91
+  - car: 0.87
+  - car: 0.83
+  - car: 0.91
+  - car: 0.87
+  - car: 0.83
+  - car: 0.91
+  - car: 0.87
+  - car: 0.83
+  - car: 0.91
+  - car: 0.87
+  - car: 0.83
+  - car: 0.91
+  - car: 0.87
+  - car: 0.83
+Frame 1784:
+  - car: 0.92
+  - car: 0.86
+  - car: 0.84
+  - car: 0.78
+  - car: 0.92
+  - car: 0.86
+  - car: 0.84
+  - car: 0.78
+  - car: 0.92
+  - car: 0.86
+  - car: 0.84
+  - car: 0.78
+  - car: 0.92
+  - car: 0.86
+  - car: 0.84
+  - car: 0.78
+  - car: 0.92
+  - car: 0.86
+  - car: 0.84
+  - car: 0.78
+  - car: 0.92
+  - car: 0.86
+  - car: 0.84
+  - car: 0.78
+  - car: 0.92
+  - car: 0.86
+  - car: 0.84
+  - car: 0.78
+Frame 1785:
+  - car: 0.91
+  - car: 0.90
+  - car: 0.87
+  - car: 0.91
+  - car: 0.90
+  - car: 0.87
+  - car: 0.91
+  - car: 0.90
+  - car: 0.87
+  - car: 0.91
+  - car: 0.90
+  - car: 0.87
+  - car: 0.91
+  - car: 0.90
+  - car: 0.87
+  - car: 0.91
+  - car: 0.90
+  - car: 0.87
+  - car: 0.91
+  - car: 0.90
+  - car: 0.87
+Frame 1786:
+  - car: 0.93
+  - car: 0.70
+  - car: 0.93
+  - car: 0.70
+  - car: 0.93
+  - car: 0.70
+  - car: 0.93
+  - car: 0.70
+  - car: 0.93
+  - car: 0.70
+  - car: 0.93
+  - car: 0.70
+  - car: 0.93
+  - car: 0.70
+Frame 1787:
+Frame 1788:
+  - car: 0.90
+  - car: 0.81
+  - car: 0.90
+  - car: 0.81
+  - car: 0.90
+  - car: 0.81
+  - car: 0.90
+  - car: 0.81
+  - car: 0.90
+  - car: 0.81
+  - car: 0.90
+  - car: 0.81
+  - car: 0.90
+  - car: 0.81
+Frame 1789:
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+  - car: 0.96
+Frame 1790:
+Frame 1791:
+  - car: 0.98
+  - car: 0.78
+  - car: 0.98
+  - car: 0.78
+  - car: 0.98
+  - car: 0.78
+  - car: 0.98
+  - car: 0.78
+  - car: 0.98
+  - car: 0.78
+  - car: 0.98
+  - car: 0.78
+  - car: 0.98
+  - car: 0.78
+Frame 1792:
+  - car: 0.99
+  - car: 0.84
+  - car: 0.99
+  - car: 0.84
+  - car: 0.99
+  - car: 0.84
+  - car: 0.99
+  - car: 0.84
+  - car: 0.99
+  - car: 0.84
+  - car: 0.99
+  - car: 0.84
+  - car: 0.99
+  - car: 0.84
+Frame 1793:
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+Frame 1794:
+  - car: 0.96
+  - car: 0.75
+  - car: 0.96
+  - car: 0.75
+  - car: 0.96
+  - car: 0.75
+  - car: 0.96
+  - car: 0.75
+  - car: 0.96
+  - car: 0.75
+  - car: 0.96
+  - car: 0.75
+  - car: 0.96
+  - car: 0.75
+Frame 1795:
+Frame 1796:
+Frame 1797:
+Frame 1798:
+Frame 1799:
+Frame 1800:
+Frame 1801:
+Frame 1802:
+Frame 1803:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 1804:
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+Frame 1805:
+  - car: 0.77
+  - car: 0.74
+  - car: 0.77
+  - car: 0.74
+  - car: 0.77
+  - car: 0.74
+  - car: 0.77
+  - car: 0.74
+  - car: 0.77
+  - car: 0.74
+  - car: 0.77
+  - car: 0.74
+  - car: 0.77
+  - car: 0.74
+Frame 1806:
+  - car: 0.94
+  - car: 0.85
+  - car: 0.94
+  - car: 0.85
+  - car: 0.94
+  - car: 0.85
+  - car: 0.94
+  - car: 0.85
+  - car: 0.94
+  - car: 0.85
+  - car: 0.94
+  - car: 0.85
+  - car: 0.94
+  - car: 0.85
+Frame 1807:
+  - car: 0.89
+  - car: 0.86
+  - car: 0.89
+  - car: 0.86
+  - car: 0.89
+  - car: 0.86
+  - car: 0.89
+  - car: 0.86
+  - car: 0.89
+  - car: 0.86
+  - car: 0.89
+  - car: 0.86
+  - car: 0.89
+  - car: 0.86
+Frame 1808:
+  - car: 0.95
+  - car: 0.76
+  - car: 0.76
+  - car: 0.95
+  - car: 0.76
+  - car: 0.76
+  - car: 0.95
+  - car: 0.76
+  - car: 0.76
+  - car: 0.95
+  - car: 0.76
+  - car: 0.76
+  - car: 0.95
+  - car: 0.76
+  - car: 0.76
+  - car: 0.95
+  - car: 0.76
+  - car: 0.76
+Frame 1809:
+  - car: 0.88
+  - car: 0.86
+  - car: 0.88
+  - car: 0.86
+  - car: 0.88
+  - car: 0.86
+  - car: 0.88
+  - car: 0.86
+  - car: 0.88
+  - car: 0.86
+  - car: 0.88
+  - car: 0.86
+Frame 1810:
+  - car: 0.87
+  - car: 0.87
+  - car: 0.87
+  - car: 0.87
+  - car: 0.87
+Frame 1811:
+  - car: 0.96
+  - car: 0.79
+  - car: 0.96
+  - car: 0.79
+  - car: 0.96
+  - car: 0.79
+  - car: 0.96
+  - car: 0.79
+  - car: 0.96
+  - car: 0.79
+Frame 1812:
+  - car: 0.91
+  - car: 0.73
+  - car: 0.91
+  - car: 0.73
+  - car: 0.91
+  - car: 0.73
+  - car: 0.91
+  - car: 0.73
+  - car: 0.91
+  - car: 0.73
+Frame 1813:
+  - car: 0.92
+  - car: 0.77
+  - car: 0.92
+  - car: 0.77
+  - car: 0.92
+  - car: 0.77
+  - car: 0.92
+  - car: 0.77
+  - car: 0.92
+  - car: 0.77
+Frame 1814:
+Frame 1815:
+  - car: 0.93
+  - car: 0.76
+  - car: 0.75
+  - car: 0.93
+  - car: 0.76
+  - car: 0.75
+  - car: 0.93
+  - car: 0.76
+  - car: 0.75
+  - car: 0.93
+  - car: 0.76
+  - car: 0.75
+  - car: 0.93
+  - car: 0.76
+  - car: 0.75
+Frame 1816:
+  - car: 0.92
+  - car: 0.92
+  - car: 0.92
+  - car: 0.92
+  - car: 0.92
+Frame 1817:
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+  - car: 0.86
+Frame 1818:
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+  - car: 0.93
+Frame 1819:
+  - car: 0.85
+  - car: 0.85
+  - car: 0.85
+  - car: 0.85
+  - car: 0.85
+Frame 1820:
+  - car: 0.76
+  - car: 0.76
+  - car: 0.76
+  - car: 0.76
+  - car: 0.76
+Frame 1821:
+  - car: 0.78
+  - car: 0.78
+  - car: 0.78
+  - car: 0.78
+  - car: 0.78
+Frame 1822:
+  - car: 0.76
+  - car: 0.76
+  - car: 0.76
+  - car: 0.76
+  - car: 0.76
+Frame 1823:
+  - car: 0.74
+  - car: 0.74
+  - car: 0.74
+  - car: 0.74
+  - car: 0.74
+Frame 1824:
+Frame 1825:
+Frame 1826:
+  - car: 0.70
+  - car: 0.70
+  - car: 0.70
+  - car: 0.70
+  - car: 0.70
+Frame 1827:
+Frame 1828:
+Frame 1829:
+Frame 1830:
+Frame 1831:
+Frame 1832:
+Frame 1833:
+Frame 1834:
+Frame 1835:
+Frame 1836:
+Frame 1837:
+Frame 1838:
+Frame 1839:
+Frame 1840:
+Frame 1841:
+Frame 1842:
+Frame 1843:
+Frame 1844:
+Frame 1845:
+Frame 1846:
+Frame 1847:
+  - car: 0.78
+  - car: 0.78
+  - car: 0.78
+  - car: 0.78
+Frame 1848:
+  - car: 0.82
+  - car: 0.82
+  - car: 0.82
+  - car: 0.82
+Frame 1849:
+Frame 1850:
+Frame 1851:
+Frame 1852:
+Frame 1853:
+Frame 1854:
+Frame 1855:
+Frame 1856:
+Frame 1857:
+Frame 1858:
+Frame 1859:
+Frame 1860:
+Frame 1861:
+Frame 1862:
+Frame 1863:
+Frame 1864:
+Frame 1865:
+Frame 1866:
+Frame 1867:
+Frame 1868:
+Frame 1869:
+Frame 1870:
+Frame 1871:
+Frame 1872:
+Frame 1873:
+Frame 1874:
+Frame 1875:
+Frame 1876:
+  - car: 0.86
+  - car: 0.86
+Frame 1877:
+  - car: 0.84
+  - car: 0.84
+Frame 1878:
+  - car: 0.96
+  - car: 0.96
+Frame 1879:
+  - car: 0.92
+  - car: 0.92
+Frame 1880:
+  - car: 0.80
+  - car: 0.80
+Frame 1881:
+  - car: 0.82
+  - car: 0.82
+Frame 1882:
+Frame 1883:
+  - car: 0.83
+  - car: 0.83
+Frame 1884:
+Frame 1885:
+Frame 1886:
+Frame 1887:
+Frame 1888:
+Frame 1889:
+Frame 1890:
+Frame 1891:
+Frame 1892:
+Frame 1893:
+Frame 1894:
+Frame 1895:
+Frame 1896:
+Frame 1897:
+Frame 1898:
+Frame 1899:
+Frame 1900:
+  - car: 0.75
+  - car: 0.75
+Frame 1901:
+Frame 1902:
+Frame 1903:
+  - car: 0.84
+  - car: 0.84
+Frame 1904:
+Frame 1905:
+Frame 1906:
+Frame 1907:
+Frame 1908:
+Frame 1909:
+Frame 1910:
+Frame 1911:
+Frame 1912:
+  - car: 0.76
+  - car: 0.76
+Frame 1913:
+Frame 1914:
+Frame 1915:
+Frame 1916:
+Frame 1917:
+  - car: 0.92
+  - car: 0.92
+Frame 1918:
+Frame 1919:
+Frame 1920:
+Frame 1921:
+Frame 1922:
+Frame 1923:
+Frame 1924:
+Frame 1925:
+Frame 1926:
+Frame 1927:
+Frame 1928:
+Frame 1929:
+  - car: 0.79
+  - car: 0.79
+Frame 1930:
+  - car: 0.85
+  - car: 0.85
+Frame 1931:
+Frame 1932:
+Frame 1933:
+  - car: 0.75
+  - car: 0.75
+Frame 1934:
+  - car: 0.84
+  - car: 0.84
+Frame 1935:
+Frame 1936:
+Frame 1937:
+  - car: 0.71
+  - car: 0.71
+Frame 1938:
+Frame 1939:
+  - car: 0.78
+  - car: 0.78
+Frame 1940:
+Frame 1941:
+Frame 1942:
+Frame 1943:
+Frame 1944:
+Frame 1945:
+Frame 1946:
+Frame 1947:
+Frame 1948:
+Frame 1949:
+Frame 1950:
+Frame 1951:
+Frame 1952:
+Frame 1953:
+Frame 1954:
+Frame 1955:
+Frame 1956:
+  - car: 0.78
+  - car: 0.78
+Frame 1957:
+  - car: 0.75
+  - car: 0.75
+Frame 1958:
+Frame 1959:
+Frame 1960:
+Frame 1961:
+Frame 1962:
+  - car: 0.77
+  - car: 0.77
+Frame 1963:
+  - car: 0.72
+  - car: 0.72
+Frame 1964:
+Frame 1965:
+Frame 1966:
+Frame 1967:
+Frame 1968:
+Frame 1969:
+Frame 1970:
+Frame 1971:
+Frame 1972:
+Frame 1973:
+Frame 1974:
+Frame 1975:
+Frame 1976:
+Frame 1977:
+Frame 1978:
+Frame 1979:
+Frame 1980:
+Frame 1981:
+Frame 1982:
+  - car: 0.90
+  - car: 0.90
+  - car: 0.78
+  - car: 0.90
+  - car: 0.90
+  - car: 0.78
+  - car: 0.90
+  - car: 0.90
+  - car: 0.78
+Frame 1983:
+  - car: 0.79
+  - car: 0.79
+  - car: 0.79
+Frame 1984:
+  - car: 0.96
+  - car: 0.76
+  - car: 0.96
+  - car: 0.76
+  - car: 0.96
+  - car: 0.76
