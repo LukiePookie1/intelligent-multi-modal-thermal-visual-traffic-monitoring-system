@@ -7,7 +7,6 @@ import os
 import numpy as np
 from torchvision.models.detection import maskrcnn_resnet50_fpn
 from torchvision.models.detection.mask_rcnn import MaskRCNNPredictor
-import matplotlib.pyplot as plt
 from datetime import datetime
 import time
 from scipy.spatial import distance as dist
@@ -170,122 +169,55 @@ def calculate_congestion(objects, frame_width, frame_height):
     num_vehicles = len(centroids)
 
     if num_vehicles == 0:
-        return "Empty"
+        return "Empty", num_vehicles
 
     total_distance = 0
-    num_pairs = 0
     for i in range(num_vehicles):
         for j in range(i + 1, num_vehicles):
             distance = dist.euclidean(centroids[i], centroids[j])
             total_distance += distance
-            num_pairs += 1
 
-    if num_pairs > 0:
-        avg_distance = total_distance / num_pairs
+    num_pairs = num_vehicles * (num_vehicles - 1) // 2
+    avg_distance = total_distance / (num_pairs if num_pairs > 0 else 1)
+
+    frame_diagonal = (frame_width ** 2 + frame_height ** 2) ** 0.5
+    normalized_avg_distance = avg_distance / frame_diagonal
+
+    if num_vehicles < 5:
+        return "Light", num_vehicles
+    elif num_vehicles < 10 and normalized_avg_distance > 0.1:
+        return "Moderate", num_vehicles
+    elif num_vehicles < 15 and normalized_avg_distance > 0.05:
+        return "Heavy", num_vehicles
     else:
-        avg_distance = float('inf')
-
-    frame_area = frame_width * frame_height
-    vehicle_density = num_vehicles / frame_area
-    distance_threshold = min(frame_width, frame_height) * 0.1
-
-    if vehicle_density < 0.0001:
-        return "Light"
-    elif avg_distance > distance_threshold:
-        return "Moderate"
-    else:
-        return "Heavy"
-
-def process_video(input_video):
-    frames_dir = "extracted_frames"
-    output_video = "output_video.mp4"
-
-    centroid_tracker = CentroidTracker(max_disappeared=50)
-
-    os.makedirs(frames_dir, exist_ok=True)
-
-    video = cv2.VideoCapture(input_video)
-    frame_rate = video.get(cv2.CAP_PROP_FPS)
-    frame_width = int(video.get(cv2.CAP_PROP_FRAME_WIDTH))
-    frame_height = int(video.get(cv2.CAP_PROP_FRAME_HEIGHT))
-    total_frames = int(video.get(cv2.CAP_PROP_FRAME_COUNT))
-
-    fourcc = cv2.VideoWriter_fourcc(*"mp4v")
-    output = cv2.VideoWriter(output_video, fourcc, frame_rate, (frame_width, frame_height))
-
-    frame_count = 0
-    detection_counts = {}
-    unique_vehicles = {}
-    detection_frames = []
-
-    global_congestion_counts = {"Empty": 0, "Light": 0, "Moderate": 0, "Heavy": 0}
-
-    start_time = time.time()
-
-    print("Starting...")
-    progress_bar = tqdm.tqdm(total=total_frames, unit="frame")
-
-    while True:
-        ret, frame = video.read()
-        
-        if not ret:
-            break
-        
-        frame_path = os.path.join(frames_dir, f"frame_{frame_count:05d}.jpg")
-        cv2.imwrite(frame_path, frame)
-        
-        preprocessed_image, scale_x, scale_y = preprocess_image(frame_path)
-        pil_image = Image.fromarray(preprocessed_image)
-        detected_objects = detect_objects(pil_image)
-
-        rects = []
-        for box, label, _, _ in detected_objects:
+        return "Very Heavy", num_vehicles
+    
+def update_detection_counts(objects, detected_objects, unique_vehicles, detection_counts):
+    frame_detections = []
+    for (object_id, _) in objects.items():
+        for box, label, score, _ in detected_objects:
             if label in vehicle_labels:
-                xmin, ymin, xmax, ymax = box
-                rects.append((xmin, ymin, xmax, ymax))
+                if object_id not in unique_vehicles:
+                    unique_vehicles[object_id] = label
+                    detection_counts[label] = detection_counts.get(label, 0) + 1
+                if unique_vehicles[object_id] == label:
+                    frame_detections.append((label, score))
+    return frame_detections
 
-        objects = centroid_tracker.update(rects)
+def add_congestion_level(image, congestion_level, num_vehicles):
+    color = (255, 255, 255) if congestion_level == "Empty" else \
+            (0, 255, 0) if congestion_level == "Light" else \
+            (0, 128, 255) if congestion_level == "Moderate" else \
+            (0, 0, 255)
 
-        frame_detections = []
-        for (object_id, _) in objects.items():
-            for box, label, score, _ in detected_objects:
-                if label in vehicle_labels:
-                    if object_id not in unique_vehicles:
-                        unique_vehicles[object_id] = label
-                        detection_counts[label] = detection_counts.get(label, 0) + 1
-                    if unique_vehicles[object_id] == label:
-                        frame_detections.append((label, score))
+    cv2.putText(image, f"Congestion: {congestion_level}", (10, 30),
+                cv2.FONT_HERSHEY_SIMPLEX, 0.7, color, 2)
+    cv2.putText(image, f"Vehicles: {num_vehicles}", (10, 60),
+                cv2.FONT_HERSHEY_SIMPLEX, 0.7, color, 2)
+    return image
 
-        detection_frames.append(frame_detections)
-        
-        congestion_level = calculate_congestion(objects, frame_width, frame_height)
-        global_congestion_counts[congestion_level] += 1
-        
-        if congestion_level == "Empty":
-            color = (255, 255, 255)  
-        elif congestion_level == "Light":
-            color = (0, 255, 0)  
-        elif congestion_level == "Moderate":
-            color = (0, 255, 255)  
-        else: 
-            color = (0, 0, 255)  
-        
-        image_with_detections = visualize_detections(frame, detected_objects, scale_x, scale_y)
-        cv2.putText(image_with_detections, f"Congestion: {congestion_level}", (10, 30),
-                    cv2.FONT_HERSHEY_SIMPLEX, 0.7, color, 2)
-        output.write(image_with_detections)
-        
-        frame_count += 1
-        progress_bar.update(1)
-
-    progress_bar.close()
-
-    end_time = time.time()
-    processing_time = (end_time - start_time) / 60
-
-    video.release()
-    output.release()  
-
+def generate_report(frame_count, processing_time, detection_counts, global_congestion_counts, detection_frames):
+    minutes, seconds = divmod(int(processing_time), 60)
     detection_report_lines = [
         "Object Detection and Congestion Report",
         "======================================",
@@ -293,7 +225,7 @@ def process_video(input_video):
         f"Date: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
         "",
         f"Total Frames Analyzed: {frame_count}",
-        f"Processing Time: {processing_time:.2f} minutes",
+        f"Processing Time: {minutes:02d}:{seconds:02d}",
         "",
         "Detection Counts:",
     ]
@@ -324,12 +256,15 @@ def process_video(input_video):
             detection_report_lines.append(f"  - {label}: {score:.2f}")
 
     detection_report_content = "\n".join(detection_report_lines)
+    return detection_report_content
 
+def save_output(detection_report_content, output_video):
     output_dir = "output"
     os.makedirs(output_dir, exist_ok=True)
 
+    video_name = os.path.splitext(os.path.basename(output_video))[0]
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    timestamped_dir = os.path.join(output_dir, timestamp)
+    timestamped_dir = os.path.join(output_dir, f"{timestamp}_{video_name}")
     os.makedirs(timestamped_dir, exist_ok=True)
 
     detection_report_file = os.path.join(timestamped_dir, "detection-and-congestion-report.txt")
@@ -338,7 +273,7 @@ def process_video(input_video):
 
     print(f"Object detection and congestion report saved to {detection_report_file}")
 
-    output_video_file = os.path.join(timestamped_dir, "output_video.mp4")
+    output_video_file = os.path.join(timestamped_dir, os.path.basename(output_video))
     os.rename(output_video, output_video_file)
 
     print(f"Output video saved to {output_video_file}")
@@ -351,13 +286,96 @@ def process_video(input_video):
         subprocess.call([open_command, output_video_file])
         subprocess.call([open_command, detection_report_file])
 
+
+def process_frames(video, frames_dir, output):
+    frame_count = 0
+    detection_counts = {}
+    unique_vehicles = {}
+    detection_frames = []
+    global_congestion_counts = {"Empty": 0, "Light": 0, "Moderate": 0, "Heavy": 0, "Very Heavy": 0}
+
+    centroid_tracker = CentroidTracker(max_disappeared=50)
+
+    total_frames = int(video.get(cv2.CAP_PROP_FRAME_COUNT))
+    progress_bar = tqdm.tqdm(total=total_frames, unit="frame")
+
+    start_time = time.time()
+
+    while True:
+        ret, frame = video.read()
+        if not ret:
+            break
+
+        frame_path = os.path.join(frames_dir, f"frame_{frame_count:05d}.jpg")
+        cv2.imwrite(frame_path, frame)
+
+        preprocessed_image, scale_x, scale_y = preprocess_image(frame_path)
+        pil_image = Image.fromarray(preprocessed_image)
+        detected_objects = detect_objects(pil_image)
+
+        rects = []
+        for box, label, _, _ in detected_objects:
+            if label in vehicle_labels:
+                xmin, ymin, xmax, ymax = box
+                rects.append((xmin, ymin, xmax, ymax))
+
+        objects = centroid_tracker.update(rects)
+
+        frame_detections = update_detection_counts(objects, detected_objects, unique_vehicles, detection_counts)
+        detection_frames.append(frame_detections)
+
+        congestion_level, num_vehicles = calculate_congestion(objects, video.get(cv2.CAP_PROP_FRAME_WIDTH), video.get(cv2.CAP_PROP_FRAME_HEIGHT))
+        global_congestion_counts[congestion_level] += 1
+
+        image_with_detections = visualize_detections(frame, detected_objects, scale_x, scale_y)
+        image_with_detections = add_congestion_level(image_with_detections, congestion_level, num_vehicles)
+        output.write(image_with_detections)
+
+        frame_count += 1
+        progress_bar.update(1)
+
+    progress_bar.close()
+
+    end_time = time.time()
+    processing_time = end_time - start_time
+
+    return frame_count, detection_counts, global_congestion_counts, detection_frames, processing_time
+
+def process_video(input_video):
+    frames_dir = "extracted_frames"
+    output_dir = "output"
+    os.makedirs(output_dir, exist_ok=True)
+
+    video_name = os.path.splitext(os.path.basename(input_video))[0]
+    output_video = os.path.join(output_dir, f"{video_name}-output.mp4")
+
+    os.makedirs(frames_dir, exist_ok=True)
+
+    video = cv2.VideoCapture(input_video)
+    frame_rate = video.get(cv2.CAP_PROP_FPS)
+    frame_width = int(video.get(cv2.CAP_PROP_FRAME_WIDTH))
+    frame_height = int(video.get(cv2.CAP_PROP_FRAME_HEIGHT))
+
+    fourcc = cv2.VideoWriter_fourcc(*"mp4v")
+    output = cv2.VideoWriter(output_video, fourcc, frame_rate, (frame_width, frame_height))
+
+    print("Starting video processing...")
+
+    frame_count, detection_counts, global_congestion_counts, detection_frames, processing_time = process_frames(video, frames_dir, output)
+
+    video.release()
+    output.release()
+
+    detection_report_content = generate_report(frame_count, processing_time, detection_counts, global_congestion_counts, detection_frames)
+    save_output(detection_report_content, output_video)
+
     shutil.rmtree(frames_dir)
 
     print("Video processing completed.")
 
 def main():
     if len(sys.argv) != 2:
-        print("Usage: python traffic-detection.py <input_video>")
+        print("Usage: python traffic_detection.py <input_video>")
         sys.exit(1)
 
     input_video = sys.argv[1]
@@ -365,3 +383,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

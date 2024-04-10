@@ -1,9 +1,0 @@
-Object Detection Report
-=======================
-
-Date: 2024-04-07 20:41:41
-
-Detection Counts:
-bus: 686
-car: 33275
-truck: 3607

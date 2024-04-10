@@ -1,6 +1,0 @@
-Object Detection Report
-=======================
-
-Date: 2024-04-07 19:45:37
-
-Detection Counts:
