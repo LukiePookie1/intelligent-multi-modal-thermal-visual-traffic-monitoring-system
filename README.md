@@ -24,9 +24,6 @@ DJI Phantom 4 PRO Professional Drone
 - Pillow (PIL)
 - CUDA 11.2 (If you have a dedicated GPU)
 
-## App Dependencies
-- Electron
-
 ## Contributors
 Software:
 - Luke Rappa
