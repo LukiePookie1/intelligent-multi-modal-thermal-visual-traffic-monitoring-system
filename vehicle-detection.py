@@ -179,7 +179,6 @@ def calculate_congestion(objects, frame_width, frame_height):
 
     num_pairs = num_vehicles * (num_vehicles - 1) // 2
     avg_distance = total_distance / (num_pairs if num_pairs > 0 else 1)
-
     frame_diagonal = (frame_width ** 2 + frame_height ** 2) ** 0.5
     normalized_avg_distance = avg_distance / frame_diagonal
 
