@@ -39,7 +39,7 @@ def classify_image(image_tensor, model, imagenet_labels):
         probabilities = torch.nn.functional.softmax(output[0], dim=0)
         top1_prob, top1_catid = torch.topk(probabilities, 1)
 
-        if top1_prob[0].item() >= 0.7:
+        if top1_prob[0].item() >= 0.4:
             class_label = imagenet_labels[top1_catid[0].item()]
             confidence_score = top1_prob[0].item()
             return class_label, confidence_score
@@ -100,9 +100,13 @@ def generate_report(input_folder, image_count, processing_time, classification_c
     classification_report_lines.append("")
     classification_report_lines.append("Image Classifications:")
 
-    for image_name, classification_info in image_classifications.items():
-        class_label, confidence_score = classification_info
-        classification_report_lines.append(f"{image_name}: {class_label} ({confidence_score:.2f})")
+    for image_name in sorted(os.listdir(input_folder)):
+        if image_name.lower().endswith(('.png', '.jpg', '.jpeg')):
+            if image_name in image_classifications:
+                class_label, confidence_score = image_classifications[image_name]
+                classification_report_lines.append(f"{image_name}: {class_label} ({confidence_score:.2f})")
+            else:
+                classification_report_lines.append(f"{image_name}: Not classified")
 
     classification_report_content = "\n".join(classification_report_lines)
     return classification_report_content

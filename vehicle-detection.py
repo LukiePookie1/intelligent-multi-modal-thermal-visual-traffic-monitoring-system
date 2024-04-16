@@ -191,16 +191,27 @@ def calculate_congestion(objects, frame_width, frame_height):
     else:
         return "Very Heavy", num_vehicles
     
-def update_detection_counts(objects, detected_objects, unique_vehicles, detection_counts):
+def update_detection_counts(objects, detected_objects, unique_vehicles, detection_counts, frame):
     frame_detections = []
-    for (object_id, _) in objects.items():
-        for box, label, score, _ in detected_objects:
-            if label in vehicle_labels:
-                if object_id not in unique_vehicles:
-                    unique_vehicles[object_id] = label
-                    detection_counts[label] = detection_counts.get(label, 0) + 1
-                if unique_vehicles[object_id] == label:
-                    frame_detections.append((label, score))
+    for (object_id, centroid) in objects.items():
+        if object_id not in unique_vehicles:
+            for box, label, score, mask in detected_objects:
+                if label in vehicle_labels:
+                    xmin, ymin, xmax, ymax = box.astype(int)
+                    if centroid[0] >= xmin and centroid[0] <= xmax and centroid[1] >= ymin and centroid[1] <= ymax:
+                        unique_vehicles[object_id] = (label, box, False) 
+                        detection_counts[label] = detection_counts.get(label, 0) + 1
+                        frame_detections.append((label, score))
+                        break
+        else:
+            label, box, image_saved = unique_vehicles[object_id]
+            if not image_saved:
+                xmin, ymin, xmax, ymax = box.astype(int)
+                cropped_image = frame[ymin:ymax, xmin:xmax]
+                cropped_image_path = os.path.join("cropped_objects", f"{label}_{object_id}.jpg")
+                cv2.imwrite(cropped_image_path, cropped_image)
+                unique_vehicles[object_id] = (label, box, True)  
+            frame_detections.append((label, 1.0))
     return frame_detections
 
 def add_congestion_level(image, congestion_level, num_vehicles):
@@ -320,7 +331,7 @@ def process_frames(video, frames_dir, output):
 
         objects = centroid_tracker.update(rects)
 
-        frame_detections = update_detection_counts(objects, detected_objects, unique_vehicles, detection_counts)
+        frame_detections = update_detection_counts(objects, detected_objects, unique_vehicles, detection_counts, frame)
         detection_frames.append(frame_detections)
 
         congestion_level, num_vehicles = calculate_congestion(objects, video.get(cv2.CAP_PROP_FRAME_WIDTH), video.get(cv2.CAP_PROP_FRAME_HEIGHT))
@@ -343,7 +354,9 @@ def process_frames(video, frames_dir, output):
 def process_video(input_video):
     frames_dir = "extracted_frames"
     output_dir = "output"
+    cropped_objects_dir = "cropped_objects"
     os.makedirs(output_dir, exist_ok=True)
+    os.makedirs(cropped_objects_dir, exist_ok=True)
 
     video_name = os.path.splitext(os.path.basename(input_video))[0]
     output_video = os.path.join(output_dir, f"{video_name}-output.mp4")
