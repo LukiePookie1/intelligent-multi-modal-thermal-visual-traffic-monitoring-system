@@ -1,7 +1,7 @@
 import os
 import subprocess
 import sys
-import tqdm
+from tqdm import tqdm
 import time
 
 def install_dependencies():
