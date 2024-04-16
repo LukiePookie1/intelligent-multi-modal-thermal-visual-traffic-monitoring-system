@@ -52,12 +52,10 @@ This system is designed to intelligently monitor traffic by detecting and classi
   ```bash
   python vehicle-analysis.py
 
-## Directions
+## Setup Instructions
 
-- Clone the directory
+- Clone the repository.
+- Install Python.
+- Install any necessary dependencies (likely PyTorch, OpenCV, scipy, and tqdm).
+- Start the project by running `vehicle-analysis.py` and follow the on-screen instructions. You will have the option to choose between image classification or object detection. You can also run `vehicle-classification.py` and `vehicle-detection.py` individually to perform specific tasks.
 
-- Install Python
-
-- Install any nesseisary dependencies (likely Pytorch, CV2, scipy, and tqdm.)
-
-- The project can be started by running vehicle-analysis.py and following the on-screen instructions. It will give you the option to use image classifcation or object detection. You can also run the vehicle classification and object detection individually. 
