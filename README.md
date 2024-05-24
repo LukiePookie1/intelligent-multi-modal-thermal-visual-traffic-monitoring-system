@@ -30,8 +30,8 @@ This system is designed to intelligently monitor traffic by detecting and classi
 ## Contributors
 
 **Software Development:**
-- Luke Rappa
-- Morgan Taylor
+- Luke Rappa - Software Development
+- Morgan Taylor - Data Annotation
 
 **Hardware Integration:**
 - Lucas Arvin
