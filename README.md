@@ -23,7 +23,7 @@ This system is designed to intelligently monitor traffic by detecting and classi
 - PyTorch
 - Torchvision
 - Pillow (PIL)
-- CUDA 11.2 (required for dedicated GPU setups)
+- CUDA 11.2 (great for discrete GPU setups)
 - tqdm
 - scipy
 
